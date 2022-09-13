@@ -27,39 +27,40 @@ const populateVocabulary = async (list, vocabulary) => {
     console.log('populating:');
     console.log('id:', item.id)
     console.log('name:', item.name);
+    console.log('nodeType:', item.nodeType);
 
-    let terms = [];
-    let children = [];
-    let vocabulary = [];
-    vocabulary.push({
-      ...item,
-      terms,
-      vocabulary
-    });
+    if (item.nodeType === 'vocabulary') {
+      const termNode = await getNode(item.id, 'term');
 
-    const termNode = await getNode(item.id, 'term');
-    console.log('termNode length:', termNode.list.length)
-    for (const termItem of termNode.list) {
-      terms.push(termItem);
-    }
+      let terms = [];
 
-    if (item.nodeType !== 'term') {
-      const node = await getNode(item.id);
-      console.log('children length', node.list.length);
+      vocabulary.push({
+        ...item,
+        terms
+      });
 
-      for (const item of node.list) {
-        children.push(item);
+      console.log('termNode length:', termNode.list.length)
+      for (const termItem of termNode.list) {
+        terms.push(termItem);
       }
+    } else {
+      const node = await getNode(item.id);
+      console.log('node.list.length', node.list.length);
 
-      await populateVocabulary(children, vocabulary);
+      let children = [];
+
+      vocabulary.push({
+        ...item,
+        children
+      });
+
+      await populateVocabulary(node.list, children);
     }
-
   }
 };
 
 async function main () {
   const rootNode = await getNode(baseId);
-  // console.log('rootNode', rootNode.list);
 
   let vocabulary = [];
   await populateVocabulary(rootNode.list, vocabulary);
