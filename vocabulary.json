@@ -1,1511 +1,965 @@
 [
   {
-    "id": "4f4e475ee4b07f02db47df0a",
-    "name": "collection",
-    "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP",
-    "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df0a",
-    "parentId": "4f4e475ee4b07f02db47df09",
-    "nodeType": "category",
+    "uuid": "5c050c63-147f-5196-92d8-705d776e4153",
+    "broader": "65f4cf61-d55e-525d-80de-0b2fe9cbd1cd",
+    "label": "collection",
+    "definition": "",
     "children": [
       {
-        "id": "4f4e475ee4b07f02db47df22",
-        "name": "category",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection",
-        "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df22",
-        "parentId": "4f4e475ee4b07f02db47df0a",
-        "nodeType": "vocabulary",
-        "terms": [
+        "uuid": "4b12677b-d32a-5c02-a290-c1a30806e10f",
+        "broader": "5c050c63-147f-5196-92d8-705d776e4153",
+        "label": "category",
+        "definition": "",
+        "children": [
           {
-            "id": "4f4e475ee4b07f02db47df23",
-            "name": "2-D and 3-D seismic reflection",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/category",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df23",
-            "parentId": "4f4e475ee4b07f02db47df22",
-            "nodeType": "term"
+            "uuid": "f998722c-29ce-5126-9601-683e0c502e37",
+            "broader": "4b12677b-d32a-5c02-a290-c1a30806e10f",
+            "label": "2-D and 3-D seismic reflection"
           },
           {
-            "id": "4f4e475ee4b07f02db47df24",
-            "name": "Aerial photographs",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/category",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df24",
-            "parentId": "4f4e475ee4b07f02db47df22",
-            "nodeType": "term"
+            "uuid": "9ab3e0d1-b627-5378-b7bd-e91cba68a1c7",
+            "broader": "4b12677b-d32a-5c02-a290-c1a30806e10f",
+            "label": "Aerial photographs"
           },
           {
-            "id": "4f4e475ee4b07f02db47df25",
-            "name": "Aeromagnetic database",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/category",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df25",
-            "parentId": "4f4e475ee4b07f02db47df22",
-            "nodeType": "term"
+            "uuid": "63f77e50-1ae6-526e-a2b8-df2430aebd78",
+            "broader": "4b12677b-d32a-5c02-a290-c1a30806e10f",
+            "label": "Aeromagnetic database"
           },
           {
-            "id": "4f4e475ee4b07f02db47df26",
-            "name": "Auger samples",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/category",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df26",
-            "parentId": "4f4e475ee4b07f02db47df22",
-            "nodeType": "term"
+            "uuid": "e33b893a-cd32-5559-9062-89ef2e9b5a89",
+            "broader": "4b12677b-d32a-5c02-a290-c1a30806e10f",
+            "label": "Auger samples"
           },
           {
-            "id": "4f4e475ee4b07f02db47df27",
-            "name": "Bibliographic Database",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/category",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df27",
-            "parentId": "4f4e475ee4b07f02db47df22",
-            "nodeType": "term"
+            "uuid": "2f432b88-122c-5b9f-adec-a0696372f575",
+            "broader": "4b12677b-d32a-5c02-a290-c1a30806e10f",
+            "label": "Bibliographic Database"
           },
           {
-            "id": "4f4e475ee4b07f02db47df28",
-            "name": "Borehole geophysical logs",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/category",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df28",
-            "parentId": "4f4e475ee4b07f02db47df22",
-            "nodeType": "term"
+            "uuid": "587fb8a8-e5b2-5e17-892c-d2364492810d",
+            "broader": "4b12677b-d32a-5c02-a290-c1a30806e10f",
+            "label": "Borehole geophysical logs"
           },
           {
-            "id": "4f4e475ee4b07f02db47df29",
-            "name": "Chattanooga Shale Uranium & Oil Shale Reports",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/category",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df29",
-            "parentId": "4f4e475ee4b07f02db47df22",
-            "nodeType": "term"
+            "uuid": "a8f28627-d9a9-574b-add2-199f454fda04",
+            "broader": "4b12677b-d32a-5c02-a290-c1a30806e10f",
+            "label": "Chattanooga Shale Uranium & Oil Shale Reports"
           },
           {
-            "id": "4f4e475ee4b07f02db47df2a",
-            "name": "Chips",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/category",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df2a",
-            "parentId": "4f4e475ee4b07f02db47df22",
-            "nodeType": "term"
+            "uuid": "ae25bebe-4316-530a-9c97-0e306be1cac1",
+            "broader": "4b12677b-d32a-5c02-a290-c1a30806e10f",
+            "label": "Chips"
           },
           {
-            "id": "4f4e475ee4b07f02db47df2b",
-            "name": "Coal Analyses",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/category",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df2b",
-            "parentId": "4f4e475ee4b07f02db47df22",
-            "nodeType": "term"
+            "uuid": "bb107544-e6d2-5069-b27c-2d3ebb385deb",
+            "broader": "4b12677b-d32a-5c02-a290-c1a30806e10f",
+            "label": "Coal Analyses"
           },
           {
-            "id": "4f4e475ee4b07f02db47df2c",
-            "name": "Coal Exploration Core Hole Logs",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/category",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df2c",
-            "parentId": "4f4e475ee4b07f02db47df22",
-            "nodeType": "term"
+            "uuid": "aaa20eb0-7391-5a7f-b478-dad98bc1ad76",
+            "broader": "4b12677b-d32a-5c02-a290-c1a30806e10f",
+            "label": "Coal Exploration Core Hole Logs"
           }
         ]
       },
       {
-        "id": "4f4e475ee4b07f02db47df14",
-        "name": "primaryPurpose",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection",
-        "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df14",
-        "parentId": "4f4e475ee4b07f02db47df0a",
-        "nodeType": "vocabulary",
-        "terms": [
+        "uuid": "5b3fa48e-ba31-5fae-9fcb-a5844fc2e7d3",
+        "broader": "5c050c63-147f-5196-92d8-705d776e4153",
+        "label": "primaryPurpose",
+        "definition": "",
+        "children": [
           {
-            "id": "4f4e475ee4b07f02db47df1b",
-            "name": "Engineering",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/primaryPurpose",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df1b",
-            "parentId": "4f4e475ee4b07f02db47df14",
-            "nodeType": "term"
+            "uuid": "b2bd279c-0869-524c-b7c9-5ad96905dcd3",
+            "broader": "5b3fa48e-ba31-5fae-9fcb-a5844fc2e7d3",
+            "label": "Engineering"
           },
           {
-            "id": "4f4e475ee4b07f02db47df1a",
-            "name": "Hazard Mitigation",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/primaryPurpose",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df1a",
-            "parentId": "4f4e475ee4b07f02db47df14",
-            "nodeType": "term"
+            "uuid": "ba2292da-6dbf-557f-99d5-2284d37f2369",
+            "broader": "5b3fa48e-ba31-5fae-9fcb-a5844fc2e7d3",
+            "label": "Hazard Mitigation"
           },
           {
-            "id": "4f4e475ee4b07f02db47df19",
-            "name": "Land Management",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/primaryPurpose",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df19",
-            "parentId": "4f4e475ee4b07f02db47df14",
-            "nodeType": "term"
+            "uuid": "95fa527f-eb2d-52b1-916f-d7bb645332e8",
+            "broader": "5b3fa48e-ba31-5fae-9fcb-a5844fc2e7d3",
+            "label": "Land Management"
           },
           {
-            "id": "4f4e475ee4b07f02db47df17",
-            "name": "Mineral Exploration",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/primaryPurpose",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df17",
-            "parentId": "4f4e475ee4b07f02db47df14",
-            "nodeType": "term"
+            "uuid": "b46d9b24-b4ae-59e1-ab39-5f6992c3b8f9",
+            "broader": "5b3fa48e-ba31-5fae-9fcb-a5844fc2e7d3",
+            "label": "Mineral Exploration"
           },
           {
-            "id": "4f4e475ee4b07f02db47df18",
-            "name": "Oil & Gas Exploration",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/primaryPurpose",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df18",
-            "parentId": "4f4e475ee4b07f02db47df14",
-            "nodeType": "term"
+            "uuid": "30445314-46f2-5b52-9970-a20514926211",
+            "broader": "5b3fa48e-ba31-5fae-9fcb-a5844fc2e7d3",
+            "label": "Oil & Gas Exploration"
           },
           {
-            "id": "4f4e475ee4b07f02db47df16",
-            "name": "Reference",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/primaryPurpose",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df16",
-            "parentId": "4f4e475ee4b07f02db47df14",
-            "nodeType": "term"
+            "uuid": "744f84dc-0875-59df-bbfa-e1278fd16fed",
+            "broader": "5b3fa48e-ba31-5fae-9fcb-a5844fc2e7d3",
+            "label": "Reference"
           },
           {
-            "id": "4f4e475ee4b07f02db47df15",
-            "name": "Research",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/primaryPurpose",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df15",
-            "parentId": "4f4e475ee4b07f02db47df14",
-            "nodeType": "term"
+            "uuid": "4fb97c89-e8f4-52b9-ac87-ca5ffb625c8d",
+            "broader": "5b3fa48e-ba31-5fae-9fcb-a5844fc2e7d3",
+            "label": "Research"
           },
           {
-            "id": "4f4e475ee4b07f02db47df1c",
-            "name": "Teaching",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/primaryPurpose",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df1c",
-            "parentId": "4f4e475ee4b07f02db47df14",
-            "nodeType": "term"
+            "uuid": "1f0db8cb-35dd-51fe-ae0e-34fbd63cbfb9",
+            "broader": "5b3fa48e-ba31-5fae-9fcb-a5844fc2e7d3",
+            "label": "Teaching"
           }
         ]
       },
       {
-        "id": "4f4e475ee4b07f02db47df1d",
-        "name": "type",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection",
-        "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df1d",
-        "parentId": "4f4e475ee4b07f02db47df0a",
-        "nodeType": "vocabulary",
-        "terms": [
+        "uuid": "f95e1585-8f3f-5be7-a0b6-229c47f92049",
+        "broader": "5c050c63-147f-5196-92d8-705d776e4153",
+        "label": "type",
+        "definition": "",
+        "children": [
           {
-            "id": "4f4e475ee4b07f02db47df21",
-            "name": "Derived and Indirect Geoscience Data",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/type",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df21",
-            "parentId": "4f4e475ee4b07f02db47df1d",
-            "nodeType": "term"
+            "uuid": "ee04525b-99e4-55d9-a7c7-8ed26f02232e",
+            "broader": "f95e1585-8f3f-5be7-a0b6-229c47f92049",
+            "label": "Derived and Indirect Geoscience Data"
           },
           {
-            "id": "4f4e475ee4b07f02db47df1e",
-            "name": "Geological",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/type",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df1e",
-            "parentId": "4f4e475ee4b07f02db47df1d",
-            "nodeType": "term"
+            "uuid": "1550a706-5261-53fa-ac8d-813a5e29d66f",
+            "broader": "f95e1585-8f3f-5be7-a0b6-229c47f92049",
+            "label": "Geological"
           },
           {
-            "id": "4f4e475ee4b07f02db47df1f",
-            "name": "Geophysical",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/type",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df1f",
-            "parentId": "4f4e475ee4b07f02db47df1d",
-            "nodeType": "term"
+            "uuid": "0bbc8ea8-84d9-5d73-9041-89ad9e13c698",
+            "broader": "f95e1585-8f3f-5be7-a0b6-229c47f92049",
+            "label": "Geophysical"
           },
           {
-            "id": "4f4e475ee4b07f02db47df20",
-            "name": "Physical Geoscience",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/type",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df20",
-            "parentId": "4f4e475ee4b07f02db47df1d",
-            "nodeType": "term"
+            "uuid": "3d474a3e-dd35-5f09-a890-3dc65ecfb284",
+            "broader": "f95e1585-8f3f-5be7-a0b6-229c47f92049",
+            "label": "Physical Geoscience"
           }
         ]
       },
       {
-        "id": "4f4e475fe4b07f02db47df7b",
-        "name": "unit",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection",
-        "uri": "https://www.sciencebase.gov/vocab/category/4f4e475fe4b07f02db47df7b",
-        "parentId": "4f4e475ee4b07f02db47df0a",
-        "nodeType": "vocabulary",
-        "terms": [
+        "uuid": "aaaf25ad-9f8f-553a-935a-3b2a6c8d91c7",
+        "broader": "5c050c63-147f-5196-92d8-705d776e4153",
+        "label": "unit",
+        "definition": "",
+        "children": [
           {
-            "id": "4f4e475fe4b07f02db47df7c",
-            "name": "Age Date Records",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/unit",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475fe4b07f02db47df7c",
-            "parentId": "4f4e475fe4b07f02db47df7b",
-            "nodeType": "term"
+            "uuid": "07bdcfc4-7f51-507a-a6b3-80c2f161c0bf",
+            "broader": "aaaf25ad-9f8f-553a-935a-3b2a6c8d91c7",
+            "label": "Age Date Records"
           },
           {
-            "id": "4f4e475fe4b07f02db47df7d",
-            "name": "Analyses",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/unit",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475fe4b07f02db47df7d",
-            "parentId": "4f4e475fe4b07f02db47df7b",
-            "nodeType": "term"
+            "uuid": "dfd93c2a-972d-59ad-a7b6-022f0ba496c4",
+            "broader": "aaaf25ad-9f8f-553a-935a-3b2a6c8d91c7",
+            "label": "Analyses"
           },
           {
-            "id": "4f4e475fe4b07f02db47df7e",
-            "name": "Bottles",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/unit",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475fe4b07f02db47df7e",
-            "parentId": "4f4e475fe4b07f02db47df7b",
-            "nodeType": "term"
+            "uuid": "8531ee73-860e-5e39-bd78-94124cae248d",
+            "broader": "aaaf25ad-9f8f-553a-935a-3b2a6c8d91c7",
+            "label": "Bottles"
           },
           {
-            "id": "4f4e475fe4b07f02db47df7f",
-            "name": "Boxes",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/unit",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475fe4b07f02db47df7f",
-            "parentId": "4f4e475fe4b07f02db47df7b",
-            "nodeType": "term"
+            "uuid": "78520fa7-bf79-56e5-aff6-006155c8fe45",
+            "broader": "aaaf25ad-9f8f-553a-935a-3b2a6c8d91c7",
+            "label": "Boxes"
           },
           {
-            "id": "4f4e475fe4b07f02db47df80",
-            "name": "Cubic Feet",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/unit",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475fe4b07f02db47df80",
-            "parentId": "4f4e475fe4b07f02db47df7b",
-            "nodeType": "term"
+            "uuid": "6bf0d3d5-72ff-578d-9294-f1a15450b8c7",
+            "broader": "aaaf25ad-9f8f-553a-935a-3b2a6c8d91c7",
+            "label": "Cubic Feet"
           },
           {
-            "id": "4f4e475fe4b07f02db47df81",
-            "name": "Data Reports",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/unit",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475fe4b07f02db47df81",
-            "parentId": "4f4e475fe4b07f02db47df7b",
-            "nodeType": "term"
+            "uuid": "46dec9f0-b878-52fa-ab1a-8557b6f9c253",
+            "broader": "aaaf25ad-9f8f-553a-935a-3b2a6c8d91c7",
+            "label": "Data Reports"
           },
           {
-            "id": "4f4e475fe4b07f02db47df82",
-            "name": "Drawers",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/unit",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475fe4b07f02db47df82",
-            "parentId": "4f4e475fe4b07f02db47df7b",
-            "nodeType": "term"
+            "uuid": "6de17dd4-1432-59f9-b69a-df7cd249d0fa",
+            "broader": "aaaf25ad-9f8f-553a-935a-3b2a6c8d91c7",
+            "label": "Drawers"
           },
           {
-            "id": "4f4e475fe4b07f02db47df83",
-            "name": "Drill Holes",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/unit",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475fe4b07f02db47df83",
-            "parentId": "4f4e475fe4b07f02db47df7b",
-            "nodeType": "term"
+            "uuid": "cf7f1473-b4c0-5952-8760-a1fb92d9ae7f",
+            "broader": "aaaf25ad-9f8f-553a-935a-3b2a6c8d91c7",
+            "label": "Drill Holes"
           },
           {
-            "id": "4f4e475fe4b07f02db47df84",
-            "name": "each",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/unit",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475fe4b07f02db47df84",
-            "parentId": "4f4e475fe4b07f02db47df7b",
-            "nodeType": "term"
+            "uuid": "e70d44cb-e97d-5404-b5fc-90db0b7521ea",
+            "broader": "aaaf25ad-9f8f-553a-935a-3b2a6c8d91c7",
+            "label": "each"
           },
           {
-            "id": "4f4e475fe4b07f02db47df85",
-            "name": "Feet",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/unit",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475fe4b07f02db47df85",
-            "parentId": "4f4e475fe4b07f02db47df7b",
-            "nodeType": "term"
+            "uuid": "62fe90eb-38ba-53e0-8044-96454b88847e",
+            "broader": "aaaf25ad-9f8f-553a-935a-3b2a6c8d91c7",
+            "label": "Feet"
           }
         ]
       },
       {
-        "id": "4f4e475ee4b07f02db47df0b",
-        "name": "userGroup",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection",
-        "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df0b",
-        "parentId": "4f4e475ee4b07f02db47df0a",
-        "nodeType": "vocabulary",
-        "terms": [
+        "uuid": "fe4ca2cb-7411-57e9-b610-1fcaaac414a5",
+        "broader": "5c050c63-147f-5196-92d8-705d776e4153",
+        "label": "userGroup",
+        "definition": "",
+        "children": [
           {
-            "id": "4f4e475ee4b07f02db47df11",
-            "name": "General Public",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/userGroup",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df11",
-            "parentId": "4f4e475ee4b07f02db47df0b",
-            "nodeType": "term"
+            "uuid": "7a979554-b3b7-53c2-bcf4-ccb27abf1984",
+            "broader": "fe4ca2cb-7411-57e9-b610-1fcaaac414a5",
+            "label": "General Public"
           },
           {
-            "id": "4f4e475ee4b07f02db47df0c",
-            "name": "K-12",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/userGroup",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df0c",
-            "parentId": "4f4e475ee4b07f02db47df0b",
-            "nodeType": "term"
+            "uuid": "b4859552-6417-5964-a2a8-d4d9868b118d",
+            "broader": "fe4ca2cb-7411-57e9-b610-1fcaaac414a5",
+            "label": "K-12"
           },
           {
-            "id": "4f4e475ee4b07f02db47df10",
-            "name": "Other Government Agencies",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/userGroup",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df10",
-            "parentId": "4f4e475ee4b07f02db47df0b",
-            "nodeType": "term"
+            "uuid": "74a14e82-19eb-5008-b6f9-6b244b67d9d6",
+            "broader": "fe4ca2cb-7411-57e9-b610-1fcaaac414a5",
+            "label": "Other Government Agencies"
           },
           {
-            "id": "4f4e475ee4b07f02db47df12",
-            "name": "Private Sector",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/userGroup",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df12",
-            "parentId": "4f4e475ee4b07f02db47df0b",
-            "nodeType": "term"
+            "uuid": "7516f8cf-15e6-55d3-ac28-bb8cf31bf76b",
+            "broader": "fe4ca2cb-7411-57e9-b610-1fcaaac414a5",
+            "label": "Private Sector"
           },
           {
-            "id": "4f4e475ee4b07f02db47df0e",
-            "name": "Professional Researchers",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/userGroup",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df0e",
-            "parentId": "4f4e475ee4b07f02db47df0b",
-            "nodeType": "term"
+            "uuid": "bfbb2d41-4033-547d-87e4-087de76f7ed4",
+            "broader": "fe4ca2cb-7411-57e9-b610-1fcaaac414a5",
+            "label": "Professional Researchers"
           },
           {
-            "id": "4f4e475ee4b07f02db47df0f",
-            "name": "Regulatory Agencies",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/userGroup",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df0f",
-            "parentId": "4f4e475ee4b07f02db47df0b",
-            "nodeType": "term"
+            "uuid": "d3faae66-cd16-52b0-b4fe-bdbbac0f458d",
+            "broader": "fe4ca2cb-7411-57e9-b610-1fcaaac414a5",
+            "label": "Regulatory Agencies"
           },
           {
-            "id": "4f4e475ee4b07f02db47df0d",
-            "name": "Universities",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/userGroup",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df0d",
-            "parentId": "4f4e475ee4b07f02db47df0b",
-            "nodeType": "term"
+            "uuid": "85f6d217-84cf-5853-8185-a0a208050d9b",
+            "broader": "fe4ca2cb-7411-57e9-b610-1fcaaac414a5",
+            "label": "Universities"
           },
           {
-            "id": "4f4e475ee4b07f02db47df13",
-            "name": "University Students",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/collection/userGroup",
-            "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df13",
-            "parentId": "4f4e475ee4b07f02db47df0b",
-            "nodeType": "term"
+            "uuid": "c3b5c78d-31c5-5f27-aba0-6219ff0e08f1",
+            "broader": "fe4ca2cb-7411-57e9-b610-1fcaaac414a5",
+            "label": "University Students"
           }
         ]
       }
     ]
   },
   {
-    "id": "60db5aaa8f518a7e747fab3a",
-    "name": "Collection health",
-    "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP",
-    "uri": "https://www.sciencebase.gov/vocab/category/60db5aaa8f518a7e747fab3a",
+    "uuid": "0c0497f6-c17e-57ad-befe-c1c39634344c",
+    "broader": "65f4cf61-d55e-525d-80de-0b2fe9cbd1cd",
     "label": "Collection health",
-    "description": "Code lists for collection health indicators adopted from Favret and others, 2008, http://favret.aphidnet.org/pubs/Favret_et-al_2008b.pdf",
-    "parentId": "4f4e475ee4b07f02db47df09",
-    "parentItemId": "4f4e475ee4b07f02db47df09",
-    "nodeType": "category",
+    "definition": "Code lists for collection health indicators adopted from Favret and others, 2008, http://favret.aphidnet.org/pubs/Favret_et-al_2008b.pdf",
     "children": [
       {
-        "id": "6112869af0d1326bc2b4beca",
-        "name": "Favret Arrangement Level",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health",
-        "uri": "https://www.sciencebase.gov/vocab/category/6112869af0d1326bc2b4beca",
-        "parentId": "60db5aaa8f518a7e747fab3a",
-        "nodeType": "vocabulary",
-        "terms": [
+        "uuid": "7b983864-d492-57b3-9290-b9db7aeb9020",
+        "broader": "0c0497f6-c17e-57ad-befe-c1c39634344c",
+        "label": "Favret Arrangement Level",
+        "definition": "",
+        "children": [
           {
-            "id": "6112869af0d1326bc2b4becb",
-            "name": "Level_1",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Arrangement%20Level",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869af0d1326bc2b4becb",
-            "label": "001",
-            "description": "Mixed taxa stored in the same vial, jar, unit tray, slide, etc. Annelid slides made from same collection are in different boxes.",
-            "parentId": "6112869af0d1326bc2b4beca",
-            "nodeType": "term"
+            "uuid": "cd535704-67fb-5d91-858c-200615c815bc",
+            "broader": "7b983864-d492-57b3-9290-b9db7aeb9020",
+            "label": "Level_1",
+            "definition": "Mixed taxa stored in the same vial, jar, unit tray, slide, etc. Annelid slides made from same collection are in different boxes."
           },
           {
-            "id": "6112869af0d1326bc2b4becc",
-            "name": "Level_2",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Arrangement%20Level",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869af0d1326bc2b4becc",
-            "label": "002",
-            "description": "Specimens crowded. Species sharing trays, or taxa scattered in two or more places. Arrangement is only at a higher taxonomic level. More than one annelid sample for collection site is stored in the same box.",
-            "parentId": "6112869af0d1326bc2b4beca",
-            "nodeType": "term"
+            "uuid": "88a7a195-31cf-57f6-857f-b377899eb974",
+            "broader": "7b983864-d492-57b3-9290-b9db7aeb9020",
+            "label": "Level_2",
+            "definition": "Specimens crowded. Species sharing trays, or taxa scattered in two or more places. Arrangement is only at a higher taxonomic level. More than one annelid sample for collection site is stored in the same box."
           },
           {
-            "id": "6112869af0d1326bc2b4becd",
-            "name": "Level_3",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Arrangement%20Level",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869af0d1326bc2b4becd",
-            "label": "003",
-            "description": "Specimens arranged alphabetically by family, genus, and species, or, if arranged phylogenetically, with an alphabetical cross-referenced list. Annelid slides arranged in boxes according to collection event and/or locality.",
-            "parentId": "6112869af0d1326bc2b4beca",
-            "nodeType": "term"
+            "uuid": "ecd5acd0-4384-59d7-a8f5-98006c8317bf",
+            "broader": "7b983864-d492-57b3-9290-b9db7aeb9020",
+            "label": "Level_3",
+            "definition": "Specimens arranged alphabetically by family, genus, and species, or, if arranged phylogenetically, with an alphabetical cross-referenced list. Annelid slides arranged in boxes according to collection event and/or locality."
           },
           {
-            "id": "6112869af0d1326bc2b4bece",
-            "name": "Level_4",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Arrangement%20Level",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869af0d1326bc2b4bece",
-            "label": "004",
-            "description": "Specimens arranged geographically within a taxon, or arranged numerically by catalog number if specimens have been databased.",
-            "parentId": "6112869af0d1326bc2b4beca",
-            "nodeType": "term"
+            "uuid": "37d2be88-b6db-5ef3-8f18-5e768514fd8e",
+            "broader": "7b983864-d492-57b3-9290-b9db7aeb9020",
+            "label": "Level_4",
+            "definition": "Specimens arranged geographically within a taxon, or arranged numerically by catalog number if specimens have been databased."
           }
         ]
       },
       {
-        "id": "6112869af0d1326bc2b4becf",
-        "name": "Favret Computerization Level",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health",
-        "uri": "https://www.sciencebase.gov/vocab/category/6112869af0d1326bc2b4becf",
-        "parentId": "60db5aaa8f518a7e747fab3a",
-        "nodeType": "vocabulary",
-        "terms": [
+        "uuid": "1ccbbc27-f2f6-54a8-b3bd-2ac8567eb7f6",
+        "broader": "0c0497f6-c17e-57ad-befe-c1c39634344c",
+        "label": "Favret Computerization Level",
+        "definition": "",
+        "children": [
           {
-            "id": "6112869af0d1326bc2b4bed0",
-            "name": "Level_1",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Computerization%20Level",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869af0d1326bc2b4bed0",
-            "label": "001",
-            "description": "Level 1 is not defined.",
-            "parentId": "6112869af0d1326bc2b4becf",
-            "nodeType": "term"
+            "uuid": "7ad9b411-bdaf-507f-9499-52430b1243c1",
+            "broader": "1ccbbc27-f2f6-54a8-b3bd-2ac8567eb7f6",
+            "label": "Level_1",
+            "definition": "Level 1 is not defined."
           },
           {
-            "id": "6112869bf0d1326bc2b4bed1",
-            "name": "Level_2",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Computerization%20Level",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869bf0d1326bc2b4bed1",
-            "label": "002",
-            "description": "No computerization at all.",
-            "parentId": "6112869af0d1326bc2b4becf",
-            "nodeType": "term"
+            "uuid": "3cbc88ed-fee5-5c40-a5a2-2df7cfd572f1",
+            "broader": "1ccbbc27-f2f6-54a8-b3bd-2ac8567eb7f6",
+            "label": "Level_2",
+            "definition": "No computerization at all."
           },
           {
-            "id": "6112869bf0d1326bc2b4bed2",
-            "name": "Level_3",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Computerization%20Level",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869bf0d1326bc2b4bed2",
-            "label": "003",
-            "description": "All [herbarium, mollusk, and vertebrate] specimens databased. Taxonomic information of other groups electronically inventoried, but specimens themselves not yet databased and assigned catalog numbers.",
-            "parentId": "6112869af0d1326bc2b4becf",
-            "nodeType": "term"
+            "uuid": "0bfaca80-e623-5c66-89ba-1f658b6155d4",
+            "broader": "1ccbbc27-f2f6-54a8-b3bd-2ac8567eb7f6",
+            "label": "Level_3",
+            "definition": "All [herbarium, mollusk, and vertebrate] specimens databased. Taxonomic information of other groups electronically inventoried, but specimens themselves not yet databased and assigned catalog numbers."
           },
           {
-            "id": "6112869bf0d1326bc2b4bed3",
-            "name": "Level_4",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Computerization%20Level",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869bf0d1326bc2b4bed3",
-            "label": "004",
-            "description": "All localities geo-referenced and stored electronically. Invertebrates databased at the level of storage unit (pin, vial, jar, slide).",
-            "parentId": "6112869af0d1326bc2b4becf",
-            "nodeType": "term"
+            "uuid": "a4a341d0-bd89-5e8d-b888-369a6e921785",
+            "broader": "1ccbbc27-f2f6-54a8-b3bd-2ac8567eb7f6",
+            "label": "Level_4",
+            "definition": "All localities geo-referenced and stored electronically. Invertebrates databased at the level of storage unit (pin, vial, jar, slide)."
           }
         ]
       },
       {
-        "id": "6112869bf0d1326bc2b4bed4",
-        "name": "Favret Condition Of Labels",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health",
-        "uri": "https://www.sciencebase.gov/vocab/category/6112869bf0d1326bc2b4bed4",
-        "parentId": "60db5aaa8f518a7e747fab3a",
-        "nodeType": "vocabulary",
-        "terms": [
+        "uuid": "1b88f42c-2ccf-5bcf-bf0a-aafcb9ada3fd",
+        "broader": "0c0497f6-c17e-57ad-befe-c1c39634344c",
+        "label": "Favret Condition Of Labels",
+        "definition": "",
+        "children": [
           {
-            "id": "6112869bf0d1326bc2b4bed5",
-            "name": "Level_1",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Condition%20Of%20Labels",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869bf0d1326bc2b4bed5",
-            "label": "001",
-            "description": "Labels are faded to illegible, crumbling, or missing. Labels have become detached from the specimen.",
-            "parentId": "6112869bf0d1326bc2b4bed4",
-            "nodeType": "term"
+            "uuid": "128dcaee-d95b-526c-a771-bf8a90935ef4",
+            "broader": "1b88f42c-2ccf-5bcf-bf0a-aafcb9ada3fd",
+            "label": "Level_1",
+            "definition": "Labels are faded to illegible, crumbling, or missing. Labels have become detached from the specimen."
           },
           {
-            "id": "6112869bf0d1326bc2b4bed6",
-            "name": "Level_2",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Condition%20Of%20Labels",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869bf0d1326bc2b4bed6",
-            "label": "002",
-            "description": "Labels are partially faded, laser-printed in fluid or in pencil, or on non-archival paper",
-            "parentId": "6112869bf0d1326bc2b4bed4",
-            "nodeType": "term"
+            "uuid": "7c4330c5-f67e-5849-a2ec-24baf7acca47",
+            "broader": "1b88f42c-2ccf-5bcf-bf0a-aafcb9ada3fd",
+            "label": "Level_2",
+            "definition": "Labels are partially faded, laser-printed in fluid or in pencil, or on non-archival paper"
           },
           {
-            "id": "6112869bf0d1326bc2b4bed7",
-            "name": "Level_3",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Condition%20Of%20Labels",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869bf0d1326bc2b4bed7",
-            "label": "003",
-            "description": "Labels are readily legible, printed with non-bleeding (if in fluid) archival paper and ink.",
-            "parentId": "6112869bf0d1326bc2b4bed4",
-            "nodeType": "term"
+            "uuid": "24439569-e281-5b5f-bc69-7b42965fd7e6",
+            "broader": "1b88f42c-2ccf-5bcf-bf0a-aafcb9ada3fd",
+            "label": "Level_3",
+            "definition": "Labels are readily legible, printed with non-bleeding (if in fluid) archival paper and ink."
           }
         ]
       },
       {
-        "id": "6112869cf0d1326bc2b4bed8",
-        "name": "Favret Conservation Status (dry)",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health",
-        "uri": "https://www.sciencebase.gov/vocab/category/6112869cf0d1326bc2b4bed8",
-        "parentId": "60db5aaa8f518a7e747fab3a",
-        "nodeType": "vocabulary",
-        "terms": [
+        "uuid": "5c4be9f3-83f7-5f5c-9a1b-c57e8361723e",
+        "broader": "0c0497f6-c17e-57ad-befe-c1c39634344c",
+        "label": "Favret Conservation Status (dry)",
+        "definition": "",
+        "children": [
           {
-            "id": "6112869cf0d1326bc2b4bed9",
-            "name": "Level_1",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Conservation%20Status%20(dry)",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869cf0d1326bc2b4bed9",
-            "label": "001",
-            "description": "Shells have Byne’s disease. Specimens (of any kind) have signs of pest infestation. Insect specimens have fallen off of pin. Specimens are damaged to the point of being unusable",
-            "parentId": "6112869cf0d1326bc2b4bed8",
-            "nodeType": "term"
+            "uuid": "d7335d61-6354-574d-afd9-54b63a0a43e4",
+            "broader": "5c4be9f3-83f7-5f5c-9a1b-c57e8361723e",
+            "label": "Level_1",
+            "definition": "Shells have Byne’s disease. Specimens (of any kind) have signs of pest infestation. Insect specimens have fallen off of pin. Specimens are damaged to the point of being unusable"
           },
           {
-            "id": "6112869cf0d1326bc2b4beda",
-            "name": "Level_2",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Conservation%20Status%20(dry)",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869cf0d1326bc2b4beda",
-            "label": "002",
-            "description": "Specimens are damaged: broken into multiple pieces, with past pest damage, loose teeth or bones. Insect pins are broken or significantly bent.",
-            "parentId": "6112869cf0d1326bc2b4bed8",
-            "nodeType": "term"
+            "uuid": "d91e7ad6-d214-5917-9e1f-430476e2720c",
+            "broader": "5c4be9f3-83f7-5f5c-9a1b-c57e8361723e",
+            "label": "Level_2",
+            "definition": "Specimens are damaged: broken into multiple pieces, with past pest damage, loose teeth or bones. Insect pins are broken or significantly bent."
           },
           {
-            "id": "6112869df0d1326bc2b4bedb",
-            "name": "Level_3",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Conservation%20Status%20(dry)",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869df0d1326bc2b4bedb",
-            "label": "003",
-            "description": "All specimens are intact and stable.",
-            "parentId": "6112869cf0d1326bc2b4bed8",
-            "nodeType": "term"
+            "uuid": "11dcd74a-dc44-55b2-95af-d153d2e8812f",
+            "broader": "5c4be9f3-83f7-5f5c-9a1b-c57e8361723e",
+            "label": "Level_3",
+            "definition": "All specimens are intact and stable."
           }
         ]
       },
       {
-        "id": "6112869df0d1326bc2b4bedc",
-        "name": "Favret Conservation Status (fluid)",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health",
-        "uri": "https://www.sciencebase.gov/vocab/category/6112869df0d1326bc2b4bedc",
-        "parentId": "60db5aaa8f518a7e747fab3a",
-        "nodeType": "vocabulary",
-        "terms": [
+        "uuid": "9bd350d7-0ce7-5268-a26a-e02b90d381c4",
+        "broader": "0c0497f6-c17e-57ad-befe-c1c39634344c",
+        "label": "Favret Conservation Status (fluid)",
+        "definition": "",
+        "children": [
           {
-            "id": "6112869df0d1326bc2b4bedd",
-            "name": "Level_1",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Conservation%20Status%20(fluid)",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869df0d1326bc2b4bedd",
-            "label": "001",
-            "description": "Specimens are desiccated. Fluid does not completely cover specimen(s). Alcohol is opaque.",
-            "parentId": "6112869df0d1326bc2b4bedc",
-            "nodeType": "term"
+            "uuid": "9221b2f8-9b42-56d3-9c9b-45246429486c",
+            "broader": "9bd350d7-0ce7-5268-a26a-e02b90d381c4",
+            "label": "Level_1",
+            "definition": "Specimens are desiccated. Fluid does not completely cover specimen(s). Alcohol is opaque."
           },
           {
-            "id": "6112869df0d1326bc2b4bede",
-            "name": "Level_2",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Conservation%20Status%20(fluid)",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869df0d1326bc2b4bede",
-            "label": "002",
-            "description": "Fluid level is low, but completely covers specimens. Alcohol is dark",
-            "parentId": "6112869df0d1326bc2b4bedc",
-            "nodeType": "term"
+            "uuid": "5f87166d-d430-52de-8682-1d13d88d397e",
+            "broader": "9bd350d7-0ce7-5268-a26a-e02b90d381c4",
+            "label": "Level_2",
+            "definition": "Fluid level is low, but completely covers specimens. Alcohol is dark"
           },
           {
-            "id": "6112869df0d1326bc2b4bedf",
-            "name": "Level_3",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Conservation%20Status%20(fluid)",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869df0d1326bc2b4bedf",
-            "label": "003",
-            "description": "Fluid is topped-off and relatively clear",
-            "parentId": "6112869df0d1326bc2b4bedc",
-            "nodeType": "term"
+            "uuid": "4ba4f0b4-4738-55ad-abeb-a0dc4779bf67",
+            "broader": "9bd350d7-0ce7-5268-a26a-e02b90d381c4",
+            "label": "Level_3",
+            "definition": "Fluid is topped-off and relatively clear"
           }
         ]
       },
       {
-        "id": "6112869df0d1326bc2b4bee0",
-        "name": "Favret Conservation Status (slide)",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health",
-        "uri": "https://www.sciencebase.gov/vocab/category/6112869df0d1326bc2b4bee0",
-        "parentId": "60db5aaa8f518a7e747fab3a",
-        "nodeType": "vocabulary",
-        "terms": [
+        "uuid": "b1213a23-86b5-5f22-b4b2-54187d8346b1",
+        "broader": "0c0497f6-c17e-57ad-befe-c1c39634344c",
+        "label": "Favret Conservation Status (slide)",
+        "definition": "",
+        "children": [
           {
-            "id": "6112869df0d1326bc2b4bee1",
-            "name": "Level_1",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Conservation%20Status%20(slide)",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869df0d1326bc2b4bee1",
-            "label": "001",
-            "description": "Slide or cover slip is broken. Mounting medium is crystallized, running, or has receded up to specimen.",
-            "parentId": "6112869df0d1326bc2b4bee0",
-            "nodeType": "term"
+            "uuid": "8128bbf7-0875-55c0-9045-584301519938",
+            "broader": "b1213a23-86b5-5f22-b4b2-54187d8346b1",
+            "label": "Level_1",
+            "definition": "Slide or cover slip is broken. Mounting medium is crystallized, running, or has receded up to specimen."
           },
           {
-            "id": "6112869df0d1326bc2b4bee2",
-            "name": "Level_2",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Conservation%20Status%20(slide)",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869df0d1326bc2b4bee2",
-            "label": "002",
-            "description": "Aqueous mounting medium is not sealed (ringed) under cover slip. Mounting medium has receded. Cover slip or slide is cracked.",
-            "parentId": "6112869df0d1326bc2b4bee0",
-            "nodeType": "term"
+            "uuid": "22ef6347-5edb-516a-b6cb-aea5fa113489",
+            "broader": "b1213a23-86b5-5f22-b4b2-54187d8346b1",
+            "label": "Level_2",
+            "definition": "Aqueous mounting medium is not sealed (ringed) under cover slip. Mounting medium has receded. Cover slip or slide is cracked."
           },
           {
-            "id": "6112869df0d1326bc2b4bee3",
-            "name": "Level_3",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Conservation%20Status%20(slide)",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869df0d1326bc2b4bee3",
-            "label": "003",
-            "description": "Slide in good condition. Mounted in Canada balsam or cover slip has been sealed (ringed).",
-            "parentId": "6112869df0d1326bc2b4bee0",
-            "nodeType": "term"
+            "uuid": "b0462053-f134-5543-ad2e-bde654db7b5a",
+            "broader": "b1213a23-86b5-5f22-b4b2-54187d8346b1",
+            "label": "Level_3",
+            "definition": "Slide in good condition. Mounted in Canada balsam or cover slip has been sealed (ringed)."
           }
         ]
       },
       {
-        "id": "6112869df0d1326bc2b4bee4",
-        "name": "Favret Container Condition (dry)",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health",
-        "uri": "https://www.sciencebase.gov/vocab/category/6112869df0d1326bc2b4bee4",
-        "parentId": "60db5aaa8f518a7e747fab3a",
-        "nodeType": "vocabulary",
-        "terms": [
+        "uuid": "913a430a-aaae-59a7-bc25-7386c60ca4bf",
+        "broader": "0c0497f6-c17e-57ad-befe-c1c39634344c",
+        "label": "Favret Container Condition (dry)",
+        "definition": "",
+        "children": [
           {
-            "id": "6112869df0d1326bc2b4bee5",
-            "name": "Level_1",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Container%20Condition%20(dry)",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869df0d1326bc2b4bee5",
-            "label": "001",
-            "description": "Specimens in old cardboard boxes, cigar boxes, pill boxes, or paper bags. Specimens not stored in unit trays. Plants mounted on cardboard with rubber cement",
-            "parentId": "6112869df0d1326bc2b4bee4",
-            "nodeType": "term"
+            "uuid": "42300dc0-2b86-5d73-9d35-ea00df2b8ecd",
+            "broader": "913a430a-aaae-59a7-bc25-7386c60ca4bf",
+            "label": "Level_1",
+            "definition": "Specimens in old cardboard boxes, cigar boxes, pill boxes, or paper bags. Specimens not stored in unit trays. Plants mounted on cardboard with rubber cement"
           },
           {
-            "id": "6112869ef0d1326bc2b4bee6",
-            "name": "Level_2",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Container%20Condition%20(dry)",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869ef0d1326bc2b4bee6",
-            "label": "002",
-            "description": "Specimens stored in new cardboard boxes or zip-lock bags. Vertebrate trays are unlined. Skulls or skeletal material are in substandard containers. Insects pinned in hard-bottom unit trays. Plants pressed in newspaper. Fungi kept in packets when they should be in boxes, or glued to paper in the packets.",
-            "parentId": "6112869df0d1326bc2b4bee4",
-            "nodeType": "term"
+            "uuid": "1f593d5a-4a85-52d7-a4c6-372abad63fc4",
+            "broader": "913a430a-aaae-59a7-bc25-7386c60ca4bf",
+            "label": "Level_2",
+            "definition": "Specimens stored in new cardboard boxes or zip-lock bags. Vertebrate trays are unlined. Skulls or skeletal material are in substandard containers. Insects pinned in hard-bottom unit trays. Plants pressed in newspaper. Fungi kept in packets when they should be in boxes, or glued to paper in the packets."
           },
           {
-            "id": "6112869ef0d1326bc2b4bee7",
-            "name": "Level_3",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Container%20Condition%20(dry)",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869ef0d1326bc2b4bee7",
-            "label": "003",
-            "description": "Unit trays are archival. Insects pinned in foam-bottom trays. Vertebrate trays are lined with acid-free paper. Plants and fungi are in/on acid paper/packet/box withElmer’s or other non-archival glue, or lacking fragment folders.",
-            "parentId": "6112869df0d1326bc2b4bee4",
-            "nodeType": "term"
+            "uuid": "b634529d-bef6-5ac6-b5ea-82daf65fd3c7",
+            "broader": "913a430a-aaae-59a7-bc25-7386c60ca4bf",
+            "label": "Level_3",
+            "definition": "Unit trays are archival. Insects pinned in foam-bottom trays. Vertebrate trays are lined with acid-free paper. Plants and fungi are in/on acid paper/packet/box withElmer’s or other non-archival glue, or lacking fragment folders."
           },
           {
-            "id": "6112869ef0d1326bc2b4bee8",
-            "name": "Level_4",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Container%20Condition%20(dry)",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869ef0d1326bc2b4bee8",
-            "label": "004",
-            "description": " Plants and fungi in/on acid free paper/packet/box, fixed with acid free glue, and with fragment folders present.",
-            "parentId": "6112869df0d1326bc2b4bee4",
-            "nodeType": "term"
+            "uuid": "dbdf0b0f-16f3-5bc8-a7d7-6f9ee2668adb",
+            "broader": "913a430a-aaae-59a7-bc25-7386c60ca4bf",
+            "label": "Level_4",
+            "definition": " Plants and fungi in/on acid free paper/packet/box, fixed with acid free glue, and with fragment folders present."
           }
         ]
       },
       {
-        "id": "6112869ef0d1326bc2b4bee9",
-        "name": "Favret Container Condition (fluid)",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health",
-        "uri": "https://www.sciencebase.gov/vocab/category/6112869ef0d1326bc2b4bee9",
-        "parentId": "60db5aaa8f518a7e747fab3a",
-        "nodeType": "vocabulary",
-        "terms": [
+        "uuid": "21c1bd37-8c86-5e17-9988-f62ed4ed2b7f",
+        "broader": "0c0497f6-c17e-57ad-befe-c1c39634344c",
+        "label": "Favret Container Condition (fluid)",
+        "definition": "",
+        "children": [
           {
-            "id": "6112869ef0d1326bc2b4beea",
-            "name": "Level_1",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Container%20Condition%20(fluid)",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869ef0d1326bc2b4beea",
-            "label": "001",
-            "description": "Vial stoppers are cracked, broken, swollen, or disintegrating. Stoppers are made of cork. Vials are loose on shelf, or banded together, and not in vial rack. Jar lids are old and rusted (if metal), or are BakeliteH lids (which crack easily). Jar seals are missing, cracked, or shrinking. Five-gallon buckets have poor seals or loose lids.",
-            "parentId": "6112869ef0d1326bc2b4bee9",
-            "nodeType": "term"
+            "uuid": "0d786105-c1f3-5a68-85d9-52c75819d0c0",
+            "broader": "21c1bd37-8c86-5e17-9988-f62ed4ed2b7f",
+            "label": "Level_1",
+            "definition": "Vial stoppers are cracked, broken, swollen, or disintegrating. Stoppers are made of cork. Vials are loose on shelf, or banded together, and not in vial rack. Jar lids are old and rusted (if metal), or are BakeliteH lids (which crack easily). Jar seals are missing, cracked, or shrinking. Five-gallon buckets have poor seals or loose lids."
           },
           {
-            "id": "6112869ef0d1326bc2b4beeb",
-            "name": "Level_2",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Container%20Condition%20(fluid)",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869ef0d1326bc2b4beeb",
-            "label": "002",
-            "description": "Hardened but intact vial stoppers. Vials aligned in wire-sided racks. Jar lids are metal or with non-polyethylene jar seals. Large specimens are stored in 5-gallon buckets.",
-            "parentId": "6112869ef0d1326bc2b4bee9",
-            "nodeType": "term"
+            "uuid": "e3baa7c4-7528-50b4-a939-5899e400cc1d",
+            "broader": "21c1bd37-8c86-5e17-9988-f62ed4ed2b7f",
+            "label": "Level_2",
+            "definition": "Hardened but intact vial stoppers. Vials aligned in wire-sided racks. Jar lids are metal or with non-polyethylene jar seals. Large specimens are stored in 5-gallon buckets."
           },
           {
-            "id": "6112869ef0d1326bc2b4beec",
-            "name": "Level_3",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Container%20Condition%20(fluid)",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869ef0d1326bc2b4beec",
-            "label": "003",
-            "description": "Vials have good quality stoppers. Vial racks are solid with no risk of vial loss. Jars are bail-topped with polyethylene gaskets, or have polypropylene lids. Large specimens are stored in archival barrels with clamping sealing mechanisms.",
-            "parentId": "6112869ef0d1326bc2b4bee9",
-            "nodeType": "term"
+            "uuid": "4cdd15ca-001b-56d0-916a-c5c794eeef4a",
+            "broader": "21c1bd37-8c86-5e17-9988-f62ed4ed2b7f",
+            "label": "Level_3",
+            "definition": "Vials have good quality stoppers. Vial racks are solid with no risk of vial loss. Jars are bail-topped with polyethylene gaskets, or have polypropylene lids. Large specimens are stored in archival barrels with clamping sealing mechanisms."
           }
         ]
       },
       {
-        "id": "6112869ef0d1326bc2b4beed",
-        "name": "Favret Container Condition (slide)",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health",
-        "uri": "https://www.sciencebase.gov/vocab/category/6112869ef0d1326bc2b4beed",
-        "parentId": "60db5aaa8f518a7e747fab3a",
-        "nodeType": "vocabulary",
-        "terms": [
+        "uuid": "49f89480-d1ce-5cae-ad69-726158b3ded7",
+        "broader": "0c0497f6-c17e-57ad-befe-c1c39634344c",
+        "label": "Favret Container Condition (slide)",
+        "definition": "",
+        "children": [
           {
-            "id": "6112869ef0d1326bc2b4beee",
-            "name": "Level_1",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Container%20Condition%20(slide)",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869ef0d1326bc2b4beee",
-            "label": "001",
-            "description": "Slides not in slide box or tray. Slide box broken.",
-            "parentId": "6112869ef0d1326bc2b4beed",
-            "nodeType": "term"
+            "uuid": "47e450dc-dd92-5d75-9932-06ae18a3c0db",
+            "broader": "49f89480-d1ce-5cae-ad69-726158b3ded7",
+            "label": "Level_1",
+            "definition": "Slides not in slide box or tray. Slide box broken."
           },
           {
-            "id": "6112869ef0d1326bc2b4beef",
-            "name": "Level_2",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Container%20Condition%20(slide)",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869ef0d1326bc2b4beef",
-            "label": "002",
-            "description": "Slide box not standard 100-slide box. Slides in trays are not protected by envelope or thick labels, which prevent the crushing of the cover slip on one slide by the adjoining slide.",
-            "parentId": "6112869ef0d1326bc2b4beed",
-            "nodeType": "term"
+            "uuid": "c35c4e23-d278-55a0-a155-5b588dddb08a",
+            "broader": "49f89480-d1ce-5cae-ad69-726158b3ded7",
+            "label": "Level_2",
+            "definition": "Slide box not standard 100-slide box. Slides in trays are not protected by envelope or thick labels, which prevent the crushing of the cover slip on one slide by the adjoining slide."
           },
           {
-            "id": "6112869ef0d1326bc2b4bef0",
-            "name": "Level_3",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Container%20Condition%20(slide)",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869ef0d1326bc2b4bef0",
-            "label": "003",
-            "description": "Good slide boxes or trays with rust-free hinges and substantial closure clasps.",
-            "parentId": "6112869ef0d1326bc2b4beed",
-            "nodeType": "term"
+            "uuid": "91c9460d-b4cb-532f-803d-3b9c7524c5f2",
+            "broader": "49f89480-d1ce-5cae-ad69-726158b3ded7",
+            "label": "Level_3",
+            "definition": "Good slide boxes or trays with rust-free hinges and substantial closure clasps."
           },
           {
-            "id": "6112869ef0d1326bc2b4bef1",
-            "name": "Level_4",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Container%20Condition%20(slide)",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869ef0d1326bc2b4bef1",
-            "label": "004",
-            "description": "Tray slides stored flat.",
-            "parentId": "6112869ef0d1326bc2b4beed",
-            "nodeType": "term"
+            "uuid": "74c61908-67a3-5cbf-8739-f8210e35ae47",
+            "broader": "49f89480-d1ce-5cae-ad69-726158b3ded7",
+            "label": "Level_4",
+            "definition": "Tray slides stored flat."
           }
         ]
       },
       {
-        "id": "6112869ef0d1326bc2b4bef2",
-        "name": "Favret Data Quality",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health",
-        "uri": "https://www.sciencebase.gov/vocab/category/6112869ef0d1326bc2b4bef2",
-        "parentId": "60db5aaa8f518a7e747fab3a",
-        "nodeType": "vocabulary",
-        "terms": [
+        "uuid": "548b2031-66de-5b63-b9a9-ecd16679451e",
+        "broader": "0c0497f6-c17e-57ad-befe-c1c39634344c",
+        "label": "Favret Data Quality",
+        "definition": "",
+        "children": [
           {
-            "id": "6112869ff0d1326bc2b4bef3",
-            "name": "Level_1",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Data%20Quality",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869ff0d1326bc2b4bef3",
-            "label": "001",
-            "description": "Data are in codes or missing entirely.",
-            "parentId": "6112869ef0d1326bc2b4bef2",
-            "nodeType": "term"
+            "uuid": "1b68f5d9-37b2-550d-9316-acd4a813a11f",
+            "broader": "548b2031-66de-5b63-b9a9-ecd16679451e",
+            "label": "Level_1",
+            "definition": "Data are in codes or missing entirely."
           },
           {
-            "id": "6112869ff0d1326bc2b4bef4",
-            "name": "Level_2",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Data%20Quality",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869ff0d1326bc2b4bef4",
-            "label": "002",
-            "description": "Some data are missing but can be inferred. Specimen containers (vials, jars, or slides) lack determination labels.",
-            "parentId": "6112869ef0d1326bc2b4bef2",
-            "nodeType": "term"
+            "uuid": "2d20d42e-c3e6-5fca-9d97-3fe14fbf0541",
+            "broader": "548b2031-66de-5b63-b9a9-ecd16679451e",
+            "label": "Level_2",
+            "definition": "Some data are missing but can be inferred. Specimen containers (vials, jars, or slides) lack determination labels."
           },
           {
-            "id": "6112869ff0d1326bc2b4bef5",
-            "name": "Level_3",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Data%20Quality",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869ff0d1326bc2b4bef5",
-            "label": "003",
-            "description": "All data fields are complete for all groups except pinned insects may have determination labels missing.",
-            "parentId": "6112869ef0d1326bc2b4bef2",
-            "nodeType": "term"
+            "uuid": "686470ed-079e-5eeb-8465-90a1d307765e",
+            "broader": "548b2031-66de-5b63-b9a9-ecd16679451e",
+            "label": "Level_3",
+            "definition": "All data fields are complete for all groups except pinned insects may have determination labels missing."
           },
           {
-            "id": "6112869ff0d1326bc2b4bef6",
-            "name": "Level_4",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20health/Favret%20Data%20Quality",
-            "uri": "https://www.sciencebase.gov/vocab/category/6112869ff0d1326bc2b4bef6",
-            "label": "004",
-            "description": "Localities fully geo-referenced. All species-level insect pins have determination labels.",
-            "parentId": "6112869ef0d1326bc2b4bef2",
-            "nodeType": "term"
+            "uuid": "3d1ad90a-751f-5140-a95c-2b48b5fcead8",
+            "broader": "548b2031-66de-5b63-b9a9-ecd16679451e",
+            "label": "Level_4",
+            "definition": "Localities fully geo-referenced. All species-level insect pins have determination labels."
           }
         ]
       }
     ]
   },
   {
-    "id": "58b45852e4b0f974afcf03b4",
-    "name": "Collection Theme",
-    "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP",
-    "uri": "https://www.sciencebase.gov/vocab/category/58b45852e4b0f974afcf03b4",
-    "description": "Type of geoscientific collection.",
-    "parentId": "4f4e475ee4b07f02db47df09",
-    "nodeType": "category",
-    "browseCategory": "Community",
+    "uuid": "8852b546-ab74-5569-81f7-9aa9aabce5c7",
+    "broader": "65f4cf61-d55e-525d-80de-0b2fe9cbd1cd",
+    "label": "Collection Theme",
+    "definition": "Type of geoscientific collection.",
     "children": [
       {
-        "id": "58d424d6e4b0f974afcf03c9",
-        "name": "Biological Collection",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20Theme",
-        "uri": "https://www.sciencebase.gov/vocab/category/58d424d6e4b0f974afcf03c9",
+        "uuid": "13859768-c7c3-505b-ac83-6d696fb7eb36",
+        "broader": "8852b546-ab74-5569-81f7-9aa9aabce5c7",
         "label": "Biological Collection",
-        "description": "Biological sample collection",
-        "parentId": "58b45852e4b0f974afcf03b4",
-        "nodeType": "vocabulary",
-        "browseCategory": "ScienceBase",
-        "terms": []
+        "definition": "Biological sample collection",
+        "children": []
       },
       {
-        "id": "58b45872e4b0f974afcf03b5",
-        "name": "Geological Collection",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20Theme",
-        "uri": "https://www.sciencebase.gov/vocab/category/58b45872e4b0f974afcf03b5",
+        "uuid": "1969febc-71be-5120-9bdd-667281364402",
+        "broader": "8852b546-ab74-5569-81f7-9aa9aabce5c7",
         "label": "Geological Collection",
-        "description": "Geological sample collection",
-        "parentId": "58b45852e4b0f974afcf03b4",
-        "nodeType": "vocabulary",
-        "browseCategory": "ScienceBase",
-        "terms": []
+        "definition": "Geological sample collection",
+        "children": []
       },
       {
-        "id": "58d4255ee4b0f974afcf03cb",
-        "name": "Paleontological Collection",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20Theme",
-        "uri": "https://www.sciencebase.gov/vocab/category/58d4255ee4b0f974afcf03cb",
+        "uuid": "9bf421cd-9f84-582a-9402-0e37f5c51a03",
+        "broader": "8852b546-ab74-5569-81f7-9aa9aabce5c7",
         "label": "Paleontological Collection",
-        "description": "Paleontological sample collection",
-        "parentId": "58b45852e4b0f974afcf03b4",
-        "nodeType": "vocabulary",
-        "browseCategory": "ScienceBase",
-        "terms": []
+        "definition": "Paleontological sample collection",
+        "children": []
       },
       {
-        "id": "58d42532e4b0f974afcf03ca",
-        "name": "Water Collection",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Collection%20Theme",
-        "uri": "https://www.sciencebase.gov/vocab/category/58d42532e4b0f974afcf03ca",
+        "uuid": "c285bb24-a004-5638-ba12-b9dc4e88a096",
+        "broader": "8852b546-ab74-5569-81f7-9aa9aabce5c7",
         "label": "Water Collection",
-        "description": "Water sample collection",
-        "parentId": "58b45852e4b0f974afcf03b4",
-        "nodeType": "vocabulary",
-        "browseCategory": "ScienceBase",
-        "terms": []
+        "definition": "Water sample collection",
+        "children": []
       }
     ]
   },
   {
-    "id": "611d409ebfff3461918aba50",
-    "name": "DataCite",
-    "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP",
-    "uri": "https://www.sciencebase.gov/vocab/category/611d409ebfff3461918aba50",
-    "label": "DataCite vocabularies",
-    "parentId": "4f4e475ee4b07f02db47df09",
-    "nodeType": "category",
-    "browseCategory": "Community",
+    "uuid": "71a99733-f4fd-530d-ab35-4cad6a9df747",
+    "broader": "65f4cf61-d55e-525d-80de-0b2fe9cbd1cd",
+    "label": "DataCite",
+    "definition": "",
     "children": [
       {
-        "id": "6123b2c3bac0c745ec5f2199",
-        "name": "Datacite Contributor Type",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite",
-        "uri": "https://www.sciencebase.gov/vocab/category/6123b2c3bac0c745ec5f2199",
-        "parentId": "611d409ebfff3461918aba50",
-        "nodeType": "vocabulary",
-        "terms": [
+        "uuid": "2edd5aab-a8a1-5944-848f-16cccf88a85c",
+        "broader": "71a99733-f4fd-530d-ab35-4cad6a9df747",
+        "label": "Datacite Contributor Type",
+        "definition": "",
+        "children": [
           {
-            "id": "6123b2c4bac0c745ec5f219a",
-            "name": "ContactPerson",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Contributor%20Type",
-            "uri": "https://www.sciencebase.gov/vocab/category/6123b2c4bac0c745ec5f219a",
-            "label": "dcite001",
-            "description": "The contributor is a ContactPerson",
-            "parentId": "6123b2c3bac0c745ec5f2199",
-            "nodeType": "term"
+            "uuid": "d03323ff-942c-5a98-a54f-db20ecbccfff",
+            "broader": "2edd5aab-a8a1-5944-848f-16cccf88a85c",
+            "label": "ContactPerson",
+            "definition": "The contributor is a ContactPerson"
           },
           {
-            "id": "6123b2c4bac0c745ec5f219b",
-            "name": "DataCollector",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Contributor%20Type",
-            "uri": "https://www.sciencebase.gov/vocab/category/6123b2c4bac0c745ec5f219b",
-            "label": "dcite002",
-            "description": "The contributor is a DataCollector",
-            "parentId": "6123b2c3bac0c745ec5f2199",
-            "nodeType": "term"
+            "uuid": "858c6273-b013-5366-969a-917a3e120dee",
+            "broader": "2edd5aab-a8a1-5944-848f-16cccf88a85c",
+            "label": "DataCollector",
+            "definition": "The contributor is a DataCollector"
           },
           {
-            "id": "6123b2c4bac0c745ec5f219c",
-            "name": "DataCurator",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Contributor%20Type",
-            "uri": "https://www.sciencebase.gov/vocab/category/6123b2c4bac0c745ec5f219c",
-            "label": "dcite003",
-            "description": "The contributor is a DataCurator",
-            "parentId": "6123b2c3bac0c745ec5f2199",
-            "nodeType": "term"
+            "uuid": "3c90fdf3-365e-5b89-ac0c-e81567133a18",
+            "broader": "2edd5aab-a8a1-5944-848f-16cccf88a85c",
+            "label": "DataCurator",
+            "definition": "The contributor is a DataCurator"
           },
           {
-            "id": "6123b2c4bac0c745ec5f219d",
-            "name": "DataManager",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Contributor%20Type",
-            "uri": "https://www.sciencebase.gov/vocab/category/6123b2c4bac0c745ec5f219d",
-            "label": "dcite004",
-            "description": "The contributor is a DataManager",
-            "parentId": "6123b2c3bac0c745ec5f2199",
-            "nodeType": "term"
+            "uuid": "a86c6e4a-382f-59a2-b29f-365aa5e444a6",
+            "broader": "2edd5aab-a8a1-5944-848f-16cccf88a85c",
+            "label": "DataManager",
+            "definition": "The contributor is a DataManager"
           },
           {
-            "id": "6123b2c4bac0c745ec5f219e",
-            "name": "Distributor",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Contributor%20Type",
-            "uri": "https://www.sciencebase.gov/vocab/category/6123b2c4bac0c745ec5f219e",
-            "label": "dcite005",
-            "description": "The contributor is a Distributor",
-            "parentId": "6123b2c3bac0c745ec5f2199",
-            "nodeType": "term"
+            "uuid": "7b56ecb8-2e21-5cbc-83cc-f79636fa586b",
+            "broader": "2edd5aab-a8a1-5944-848f-16cccf88a85c",
+            "label": "Distributor",
+            "definition": "The contributor is a Distributor"
           },
           {
-            "id": "6123b2c4bac0c745ec5f219f",
-            "name": "Editor",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Contributor%20Type",
-            "uri": "https://www.sciencebase.gov/vocab/category/6123b2c4bac0c745ec5f219f",
-            "label": "dcite006",
-            "description": "The contributor is a Editor",
-            "parentId": "6123b2c3bac0c745ec5f2199",
-            "nodeType": "term"
+            "uuid": "1503aa3f-cfc6-59cc-953b-c47772e47d31",
+            "broader": "2edd5aab-a8a1-5944-848f-16cccf88a85c",
+            "label": "Editor",
+            "definition": "The contributor is a Editor"
           },
           {
-            "id": "6123b2c4bac0c745ec5f21a0",
-            "name": "HostingInstitution",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Contributor%20Type",
-            "uri": "https://www.sciencebase.gov/vocab/category/6123b2c4bac0c745ec5f21a0",
-            "label": "dcite007",
-            "description": "The contributor is a HostingInstitution",
-            "parentId": "6123b2c3bac0c745ec5f2199",
-            "nodeType": "term"
+            "uuid": "a1de1adf-8646-533e-a61d-997fc7b7652c",
+            "broader": "2edd5aab-a8a1-5944-848f-16cccf88a85c",
+            "label": "HostingInstitution",
+            "definition": "The contributor is a HostingInstitution"
           },
           {
-            "id": "6123b2c5bac0c745ec5f21a1",
-            "name": "Other",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Contributor%20Type",
-            "uri": "https://www.sciencebase.gov/vocab/category/6123b2c5bac0c745ec5f21a1",
-            "label": "dcite008",
-            "description": "The contributor is a Other",
-            "parentId": "6123b2c3bac0c745ec5f2199",
-            "nodeType": "term"
+            "uuid": "946efd95-5d17-5d5d-ad5b-ee18be9b56a7",
+            "broader": "2edd5aab-a8a1-5944-848f-16cccf88a85c",
+            "label": "Other",
+            "definition": "The contributor is a Other"
           },
           {
-            "id": "6123b2c5bac0c745ec5f21a2",
-            "name": "Producer",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Contributor%20Type",
-            "uri": "https://www.sciencebase.gov/vocab/category/6123b2c5bac0c745ec5f21a2",
-            "label": "dcite009",
-            "description": "The contributor is a Producer",
-            "parentId": "6123b2c3bac0c745ec5f2199",
-            "nodeType": "term"
+            "uuid": "5f3cbba6-eb80-587c-b74f-4e65f4bd9af5",
+            "broader": "2edd5aab-a8a1-5944-848f-16cccf88a85c",
+            "label": "Producer",
+            "definition": "The contributor is a Producer"
           },
           {
-            "id": "6123b2c5bac0c745ec5f21a3",
-            "name": "ProjectLeader",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Contributor%20Type",
-            "uri": "https://www.sciencebase.gov/vocab/category/6123b2c5bac0c745ec5f21a3",
-            "label": "dcite010",
-            "description": "The contributor is a ProjectLeader",
-            "parentId": "6123b2c3bac0c745ec5f2199",
-            "nodeType": "term"
+            "uuid": "d6f5af7f-19b6-52bc-b4bf-0826cd61a72b",
+            "broader": "2edd5aab-a8a1-5944-848f-16cccf88a85c",
+            "label": "ProjectLeader",
+            "definition": "The contributor is a ProjectLeader"
           }
         ]
       },
       {
-        "id": "6123b286bac0c745ec5f2193",
-        "name": "Datacite Description Type",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite",
-        "uri": "https://www.sciencebase.gov/vocab/category/6123b286bac0c745ec5f2193",
-        "parentId": "611d409ebfff3461918aba50",
-        "nodeType": "vocabulary",
-        "terms": [
+        "uuid": "168447c0-34f1-59b4-8619-22414b21b574",
+        "broader": "71a99733-f4fd-530d-ab35-4cad6a9df747",
+        "label": "Datacite Description Type",
+        "definition": "",
+        "children": [
           {
-            "id": "6123b286bac0c745ec5f2194",
-            "name": "Abstract",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Description%20Type",
-            "uri": "https://www.sciencebase.gov/vocab/category/6123b286bac0c745ec5f2194",
-            "label": "dcite001",
-            "description": "The description is an Abstract",
-            "parentId": "6123b286bac0c745ec5f2193",
-            "nodeType": "term"
+            "uuid": "f553e5de-81ed-55ba-9e92-17301dee3cab",
+            "broader": "168447c0-34f1-59b4-8619-22414b21b574",
+            "label": "Abstract",
+            "definition": "The description is an Abstract"
           },
           {
-            "id": "6123b287bac0c745ec5f2195",
-            "name": "Methods",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Description%20Type",
-            "uri": "https://www.sciencebase.gov/vocab/category/6123b287bac0c745ec5f2195",
-            "label": "dcite002",
-            "description": "The description describes Methods",
-            "parentId": "6123b286bac0c745ec5f2193",
-            "nodeType": "term"
+            "uuid": "0a5b33b5-9b95-565b-b5a6-283a421362c5",
+            "broader": "168447c0-34f1-59b4-8619-22414b21b574",
+            "label": "Methods",
+            "definition": "The description describes Methods"
           },
           {
-            "id": "6123b287bac0c745ec5f2198",
-            "name": "Other",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Description%20Type",
-            "uri": "https://www.sciencebase.gov/vocab/category/6123b287bac0c745ec5f2198",
-            "label": "dcite005",
-            "description": "The description is not a standard type",
-            "parentId": "6123b286bac0c745ec5f2193",
-            "nodeType": "term"
+            "uuid": "8065a0b9-a9b0-52d6-8cb6-a727f98a53ee",
+            "broader": "168447c0-34f1-59b4-8619-22414b21b574",
+            "label": "Other",
+            "definition": "The description is not a standard type"
           },
           {
-            "id": "6123b287bac0c745ec5f2196",
-            "name": "TableOfContents",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Description%20Type",
-            "uri": "https://www.sciencebase.gov/vocab/category/6123b287bac0c745ec5f2196",
-            "label": "dcite003",
-            "description": "The description is a TableOfContents",
-            "parentId": "6123b286bac0c745ec5f2193",
-            "nodeType": "term"
+            "uuid": "a9c98903-2de3-57fc-ba4c-f25966804420",
+            "broader": "168447c0-34f1-59b4-8619-22414b21b574",
+            "label": "TableOfContents",
+            "definition": "The description is a TableOfContents"
           },
           {
-            "id": "6123b287bac0c745ec5f2197",
-            "name": "TechnicalInfo",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Description%20Type",
-            "uri": "https://www.sciencebase.gov/vocab/category/6123b287bac0c745ec5f2197",
-            "label": "dcite004",
-            "description": "The description is TechnicalInfo",
-            "parentId": "6123b286bac0c745ec5f2193",
-            "nodeType": "term"
+            "uuid": "58a25dcd-4df9-5157-bc70-ec401580d0c8",
+            "broader": "168447c0-34f1-59b4-8619-22414b21b574",
+            "label": "TechnicalInfo",
+            "definition": "The description is TechnicalInfo"
           }
         ]
       },
       {
-        "id": "611d428bbfff3461918aba6e",
-        "name": "Datacite Relation Type",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite",
-        "uri": "https://www.sciencebase.gov/vocab/category/611d428bbfff3461918aba6e",
-        "parentId": "611d409ebfff3461918aba50",
-        "nodeType": "vocabulary",
-        "terms": [
+        "uuid": "ec1be3b3-bec2-58d8-8483-7d3a9a2ed4da",
+        "broader": "71a99733-f4fd-530d-ab35-4cad6a9df747",
+        "label": "Datacite Relation Type",
+        "definition": "",
+        "children": [
           {
-            "id": "611d428dbfff3461918aba70",
-            "name": "Cites",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Relation%20Type",
-            "uri": "https://www.sciencebase.gov/vocab/category/611d428dbfff3461918aba70",
-            "label": "dcite002",
-            "description": "The resource being registered Cites the related resource.",
-            "parentId": "611d428bbfff3461918aba6e",
-            "nodeType": "term"
+            "uuid": "72cea9c0-23ad-5c2d-91a2-954170aecc02",
+            "broader": "ec1be3b3-bec2-58d8-8483-7d3a9a2ed4da",
+            "label": "Cites",
+            "definition": "The resource being registered Cites the related resource."
           },
           {
-            "id": "611d428ebfff3461918aba7f",
-            "name": "Compiles",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Relation%20Type",
-            "uri": "https://www.sciencebase.gov/vocab/category/611d428ebfff3461918aba7f",
-            "label": "dcite017",
-            "description": "The resource being registered Compiles the related resource.",
-            "parentId": "611d428bbfff3461918aba6e",
-            "nodeType": "term"
+            "uuid": "d7fbcad1-b786-5509-9c7c-b5ec9b233031",
+            "broader": "ec1be3b3-bec2-58d8-8483-7d3a9a2ed4da",
+            "label": "Compiles",
+            "definition": "The resource being registered Compiles the related resource."
           },
           {
-            "id": "611d428dbfff3461918aba74",
-            "name": "Continues",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Relation%20Type",
-            "uri": "https://www.sciencebase.gov/vocab/category/611d428dbfff3461918aba74",
-            "label": "dcite006",
-            "description": "The resource being registered Continues the related resource.",
-            "parentId": "611d428bbfff3461918aba6e",
-            "nodeType": "term"
+            "uuid": "fa2b50f3-37f9-562e-a671-c7414c77f414",
+            "broader": "ec1be3b3-bec2-58d8-8483-7d3a9a2ed4da",
+            "label": "Continues",
+            "definition": "The resource being registered Continues the related resource."
           },
           {
-            "id": "611d428ebfff3461918aba89",
-            "name": "Describes",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Relation%20Type",
-            "uri": "https://www.sciencebase.gov/vocab/category/611d428ebfff3461918aba89",
-            "label": "dcite027",
-            "description": "The resource being registered Describes the related resource.",
-            "parentId": "611d428bbfff3461918aba6e",
-            "nodeType": "term"
+            "uuid": "a42ec73c-e7af-5262-930e-916a2f9b74e1",
+            "broader": "ec1be3b3-bec2-58d8-8483-7d3a9a2ed4da",
+            "label": "Describes",
+            "definition": "The resource being registered Describes the related resource."
           },
           {
-            "id": "611d428ebfff3461918aba7d",
-            "name": "Documents",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Relation%20Type",
-            "uri": "https://www.sciencebase.gov/vocab/category/611d428ebfff3461918aba7d",
-            "label": "dcite015",
-            "description": "The resource being registered Documents the related resource.",
-            "parentId": "611d428bbfff3461918aba6e",
-            "nodeType": "term"
+            "uuid": "f7f12ca6-bb85-5ae4-8c1f-6fac932f737d",
+            "broader": "ec1be3b3-bec2-58d8-8483-7d3a9a2ed4da",
+            "label": "Documents",
+            "definition": "The resource being registered Documents the related resource."
           },
           {
-            "id": "611d428ebfff3461918aba83",
-            "name": "HasMetadata",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Relation%20Type",
-            "uri": "https://www.sciencebase.gov/vocab/category/611d428ebfff3461918aba83",
-            "label": "dcite012",
-            "description": "The resource being registered HasMetadata for the related resource.",
-            "parentId": "611d428bbfff3461918aba6e",
-            "nodeType": "term"
+            "uuid": "853f1605-47e8-5119-a3e1-c7c818ef4177",
+            "broader": "ec1be3b3-bec2-58d8-8483-7d3a9a2ed4da",
+            "label": "HasMetadata",
+            "definition": "The resource being registered HasMetadata for the related resource."
           },
           {
-            "id": "611d428dbfff3461918aba78",
-            "name": "HasPart",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Relation%20Type",
-            "uri": "https://www.sciencebase.gov/vocab/category/611d428dbfff3461918aba78",
-            "label": "dcite010",
-            "description": "The resource being registered HasPart the related resource.",
-            "parentId": "611d428bbfff3461918aba6e",
-            "nodeType": "term"
+            "uuid": "7723e4ac-bd6e-57d0-ae30-d90d564543a5",
+            "broader": "ec1be3b3-bec2-58d8-8483-7d3a9a2ed4da",
+            "label": "HasPart",
+            "definition": "The resource being registered HasPart the related resource."
           },
           {
-            "id": "611d428fbfff3461918aba8b",
-            "name": "HasVersion",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Relation%20Type",
-            "uri": "https://www.sciencebase.gov/vocab/category/611d428fbfff3461918aba8b",
-            "label": "dcite029",
-            "description": "The resource being registered HasVersion the related resource.",
-            "parentId": "611d428bbfff3461918aba6e",
-            "nodeType": "term"
+            "uuid": "96d9bdb3-f0c5-5e0c-a9eb-5e52fcd4e40f",
+            "broader": "ec1be3b3-bec2-58d8-8483-7d3a9a2ed4da",
+            "label": "HasVersion",
+            "definition": "The resource being registered HasVersion the related resource."
           },
           {
-            "id": "611d428dbfff3461918aba6f",
-            "name": "IsCitedBy",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Relation%20Type",
-            "uri": "https://www.sciencebase.gov/vocab/category/611d428dbfff3461918aba6f",
-            "label": "dcite001",
-            "description": "The resource being registered IsCitedBy the related resource.",
-            "parentId": "611d428bbfff3461918aba6e",
-            "nodeType": "term"
+            "uuid": "c08493ee-4fb6-5741-bb53-3114657f68a0",
+            "broader": "ec1be3b3-bec2-58d8-8483-7d3a9a2ed4da",
+            "label": "IsCitedBy",
+            "definition": "The resource being registered IsCitedBy the related resource."
           },
           {
-            "id": "611d428ebfff3461918aba7e",
-            "name": "IsCompiledBy",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Relation%20Type",
-            "uri": "https://www.sciencebase.gov/vocab/category/611d428ebfff3461918aba7e",
-            "label": "dcite016",
-            "description": "The resource being registered IsCompiledBy the related resource.",
-            "parentId": "611d428bbfff3461918aba6e",
-            "nodeType": "term"
+            "uuid": "94e657b9-0670-52cd-bdfe-fa2487190fc3",
+            "broader": "ec1be3b3-bec2-58d8-8483-7d3a9a2ed4da",
+            "label": "IsCompiledBy",
+            "definition": "The resource being registered IsCompiledBy the related resource."
           }
         ]
       },
       {
-        "id": "611d4215bfff3461918aba51",
-        "name": "Datacite Resource Type General",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite",
-        "uri": "https://www.sciencebase.gov/vocab/category/611d4215bfff3461918aba51",
-        "parentId": "611d409ebfff3461918aba50",
-        "nodeType": "vocabulary",
-        "terms": [
+        "uuid": "dd030592-0be9-5022-ae8b-dc8fd3cdd697",
+        "broader": "71a99733-f4fd-530d-ab35-4cad6a9df747",
+        "label": "Datacite Resource Type General",
+        "definition": "",
+        "children": [
           {
-            "id": "611d4215bfff3461918aba52",
-            "name": "Audiovisual",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Resource%20Type%20General",
-            "uri": "https://www.sciencebase.gov/vocab/category/611d4215bfff3461918aba52",
-            "label": "dcite002",
-            "description": "The resource is an Audiovisual ",
-            "parentId": "611d4215bfff3461918aba51",
-            "nodeType": "term"
+            "uuid": "25f27e82-e3fb-5178-b427-416e43e598aa",
+            "broader": "dd030592-0be9-5022-ae8b-dc8fd3cdd697",
+            "label": "Audiovisual",
+            "definition": "The resource is an Audiovisual "
           },
           {
-            "id": "611d4215bfff3461918aba53",
-            "name": "Book",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Resource%20Type%20General",
-            "uri": "https://www.sciencebase.gov/vocab/category/611d4215bfff3461918aba53",
-            "label": "dcite003",
-            "description": "The resource is a Book",
-            "parentId": "611d4215bfff3461918aba51",
-            "nodeType": "term"
+            "uuid": "55a71012-5661-5434-bb4a-2827bf1633c0",
+            "broader": "dd030592-0be9-5022-ae8b-dc8fd3cdd697",
+            "label": "Book",
+            "definition": "The resource is a Book"
           },
           {
-            "id": "611d4215bfff3461918aba54",
-            "name": "BookChapter",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Resource%20Type%20General",
-            "uri": "https://www.sciencebase.gov/vocab/category/611d4215bfff3461918aba54",
-            "label": "dcite004",
-            "description": "The resource is a Book Chapter",
-            "parentId": "611d4215bfff3461918aba51",
-            "nodeType": "term"
+            "uuid": "e7c36782-11be-5741-85a7-7bf09a11b04f",
+            "broader": "dd030592-0be9-5022-ae8b-dc8fd3cdd697",
+            "label": "BookChapter",
+            "definition": "The resource is a Book Chapter"
           },
           {
-            "id": "611d4215bfff3461918aba55",
-            "name": "Collection",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Resource%20Type%20General",
-            "uri": "https://www.sciencebase.gov/vocab/category/611d4215bfff3461918aba55",
-            "label": "dcite005",
-            "description": "The resource is a Collection",
-            "parentId": "611d4215bfff3461918aba51",
-            "nodeType": "term"
+            "uuid": "41bab223-bf27-5ba9-8d8c-fe3fed70d054",
+            "broader": "dd030592-0be9-5022-ae8b-dc8fd3cdd697",
+            "label": "Collection",
+            "definition": "The resource is a Collection"
           },
           {
-            "id": "611d4215bfff3461918aba56",
-            "name": "ComputationalNotebook",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Resource%20Type%20General",
-            "uri": "https://www.sciencebase.gov/vocab/category/611d4215bfff3461918aba56",
-            "label": "dcite007",
-            "description": "The resource is a Computational Notebook",
-            "parentId": "611d4215bfff3461918aba51",
-            "nodeType": "term"
+            "uuid": "8f7e111c-273b-5635-b488-59da94a0f0b5",
+            "broader": "dd030592-0be9-5022-ae8b-dc8fd3cdd697",
+            "label": "ComputationalNotebook",
+            "definition": "The resource is a Computational Notebook"
           },
           {
-            "id": "611d4215bfff3461918aba57",
-            "name": "ConferencePaper",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Resource%20Type%20General",
-            "uri": "https://www.sciencebase.gov/vocab/category/611d4215bfff3461918aba57",
-            "label": "dcite008",
-            "description": "The resource is a Conference Paper",
-            "parentId": "611d4215bfff3461918aba51",
-            "nodeType": "term"
+            "uuid": "81358d21-4836-5b9a-b345-10b2aca2d0ca",
+            "broader": "dd030592-0be9-5022-ae8b-dc8fd3cdd697",
+            "label": "ConferencePaper",
+            "definition": "The resource is a Conference Paper"
           },
           {
-            "id": "611d4216bfff3461918aba58",
-            "name": "ConferenceProceeding",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Resource%20Type%20General",
-            "uri": "https://www.sciencebase.gov/vocab/category/611d4216bfff3461918aba58",
-            "label": "dcite009",
-            "description": "The resource is a Conference Proceeding",
-            "parentId": "611d4215bfff3461918aba51",
-            "nodeType": "term"
+            "uuid": "3811c6dc-0cc3-5d31-b94b-bf2a48ded722",
+            "broader": "dd030592-0be9-5022-ae8b-dc8fd3cdd697",
+            "label": "ConferenceProceeding",
+            "definition": "The resource is a Conference Proceeding"
           },
           {
-            "id": "611d4216bfff3461918aba59",
-            "name": "DataPaper",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Resource%20Type%20General",
-            "uri": "https://www.sciencebase.gov/vocab/category/611d4216bfff3461918aba59",
-            "label": "dcite010",
-            "description": "The resource is a Data Paper",
-            "parentId": "611d4215bfff3461918aba51",
-            "nodeType": "term"
+            "uuid": "8b760751-d058-53b5-bb58-715b6356aeb1",
+            "broader": "dd030592-0be9-5022-ae8b-dc8fd3cdd697",
+            "label": "DataPaper",
+            "definition": "The resource is a Data Paper"
           },
           {
-            "id": "611d4216bfff3461918aba5a",
-            "name": "Dataset",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Resource%20Type%20General",
-            "uri": "https://www.sciencebase.gov/vocab/category/611d4216bfff3461918aba5a",
-            "label": "dcite011",
-            "description": "The resource is a Dataset",
-            "parentId": "611d4215bfff3461918aba51",
-            "nodeType": "term"
+            "uuid": "232a55c5-83ff-5482-a0a3-7fa16b7c8514",
+            "broader": "dd030592-0be9-5022-ae8b-dc8fd3cdd697",
+            "label": "Dataset",
+            "definition": "The resource is a Dataset"
           },
           {
-            "id": "611d4216bfff3461918aba5b",
-            "name": "Dissertation",
-            "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/DataCite/Datacite%20Resource%20Type%20General",
-            "uri": "https://www.sciencebase.gov/vocab/category/611d4216bfff3461918aba5b",
-            "label": "dcite012",
-            "description": "The resource is a Dissertation",
-            "parentId": "611d4215bfff3461918aba51",
-            "nodeType": "term"
+            "uuid": "41aab432-05f2-57a8-8ed6-27df3e6847b9",
+            "broader": "dd030592-0be9-5022-ae8b-dc8fd3cdd697",
+            "label": "Dissertation",
+            "definition": "The resource is a Dissertation"
           }
         ]
       }
     ]
   },
   {
-    "id": "611d213fbfff3461918aba48",
-    "name": "Hazardous Materials",
-    "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP",
-    "uri": "https://www.sciencebase.gov/vocab/category/611d213fbfff3461918aba48",
-    "parentId": "4f4e475ee4b07f02db47df09",
-    "nodeType": "vocabulary",
-    "terms": [
+    "uuid": "a8e481d9-403d-5a03-9b46-0a7a909aae84",
+    "broader": "65f4cf61-d55e-525d-80de-0b2fe9cbd1cd",
+    "label": "Hazardous Materials",
+    "definition": "",
+    "children": [
       {
-        "id": "611d242fbfff3461918aba4c",
-        "name": "False",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Hazardous%20Materials",
-        "uri": "https://www.sciencebase.gov/vocab/category/611d242fbfff3461918aba4c",
-        "label": "002",
-        "description": "Hazardous materials are not known to exist in collection.",
-        "parentId": "611d213fbfff3461918aba48",
-        "nodeType": "term"
+        "uuid": "e76e4902-93d0-5aac-9f2e-b770ac5d26e7",
+        "broader": "a8e481d9-403d-5a03-9b46-0a7a909aae84",
+        "label": "False",
+        "definition": "Hazardous materials are not known to exist in collection."
       },
       {
-        "id": "611d242fbfff3461918aba4b",
-        "name": "True",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Hazardous%20Materials",
-        "uri": "https://www.sciencebase.gov/vocab/category/611d242fbfff3461918aba4b",
-        "label": "001",
-        "description": "Hazardous materials are known to exist in collection.",
-        "parentId": "611d213fbfff3461918aba48",
-        "nodeType": "term"
+        "uuid": "f4d9b9d3-fb5b-5136-9088-9837f5ca50f3",
+        "broader": "a8e481d9-403d-5a03-9b46-0a7a909aae84",
+        "label": "True",
+        "definition": "Hazardous materials are known to exist in collection."
       }
     ]
   },
   {
-    "id": "611d3f2dbfff3461918aba4d",
-    "name": "Known To Contain Types",
-    "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP",
-    "uri": "https://www.sciencebase.gov/vocab/category/611d3f2dbfff3461918aba4d",
-    "parentId": "4f4e475ee4b07f02db47df09",
-    "nodeType": "vocabulary",
-    "terms": [
+    "uuid": "bbccbffc-9289-55af-86f8-06c091670257",
+    "broader": "65f4cf61-d55e-525d-80de-0b2fe9cbd1cd",
+    "label": "Known To Contain Types",
+    "definition": "",
+    "children": [
       {
-        "id": "611d3f7bbfff3461918aba4f",
-        "name": "False",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Known%20To%20Contain%20Types",
-        "uri": "https://www.sciencebase.gov/vocab/category/611d3f7bbfff3461918aba4f",
-        "label": "002",
-        "description": "Type specimens are not known to exist in collection.",
-        "parentId": "611d3f2dbfff3461918aba4d",
-        "nodeType": "term"
+        "uuid": "a27d4244-410e-5073-85f0-29b757dee774",
+        "broader": "bbccbffc-9289-55af-86f8-06c091670257",
+        "label": "False",
+        "definition": "Type specimens are not known to exist in collection."
       },
       {
-        "id": "611d3f7bbfff3461918aba4e",
-        "name": "True",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/Known%20To%20Contain%20Types",
-        "uri": "https://www.sciencebase.gov/vocab/category/611d3f7bbfff3461918aba4e",
-        "label": "001",
-        "description": "Type specimens are known to exist in collection.",
-        "parentId": "611d3f2dbfff3461918aba4d",
-        "nodeType": "term"
+        "uuid": "1aef3f91-10f0-51db-b190-3097294ccae3",
+        "broader": "bbccbffc-9289-55af-86f8-06c091670257",
+        "label": "True",
+        "definition": "Type specimens are known to exist in collection."
       }
     ]
   },
   {
-    "id": "5bf3f7bce4b00ce5fb627d57",
-    "name": "nggdpp_collection_types",
-    "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP",
-    "uri": "https://www.sciencebase.gov/vocab/category/5bf3f7bce4b00ce5fb627d57",
-    "label": "NGGDPP Collection Types",
-    "description": "Terms denoting the type/function of collection items in the National Digital Catalog",
-    "parentId": "4f4e475ee4b07f02db47df09",
-    "nodeType": "vocabulary",
-    "terms": [
+    "uuid": "5e42d141-0195-5780-93ff-d599a26a169c",
+    "broader": "65f4cf61-d55e-525d-80de-0b2fe9cbd1cd",
+    "label": "nggdpp_collection_types",
+    "definition": "Terms denoting the type/function of collection items in the National Digital Catalog",
+    "children": [
       {
-        "id": "5bf3f84de4b00ce5fb627d59",
-        "name": "ndc_collection",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/nggdpp_collection_types",
-        "uri": "https://www.sciencebase.gov/vocab/category/5bf3f84de4b00ce5fb627d59",
-        "label": "NDC Collection",
-        "description": "Item that represents a logical collection of physical data items managed by an organization contributing to the National Digital Catalog. These are core metadata items for which we expect to find full metadata describing the collection and a method of accessing the contents in the collection.",
-        "parentId": "5bf3f7bce4b00ce5fb627d57",
-        "nodeType": "term"
+        "uuid": "3257855c-38e8-5315-a64a-0b7c45b64b65",
+        "broader": "5e42d141-0195-5780-93ff-d599a26a169c",
+        "label": "ndc_collection",
+        "definition": "Item that represents a logical collection of physical data items managed by an organization contributing to the National Digital Catalog. These are core metadata items for which we expect to find full metadata describing the collection and a method of accessing the contents in the collection."
       },
       {
-        "id": "5bf44423e4b00ce5fb627d5a",
-        "name": "ndc_folder",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/nggdpp_collection_types",
-        "uri": "https://www.sciencebase.gov/vocab/category/5bf44423e4b00ce5fb627d5a",
-        "label": "NDC Folder",
-        "description": "Denotes a ScienceBase Item that functions as an organizational folder within the National Digital Catalog.",
-        "parentId": "5bf3f7bce4b00ce5fb627d57",
-        "nodeType": "term"
+        "uuid": "4caf3b75-0099-53ac-aeb5-6f204dda88f3",
+        "broader": "5e42d141-0195-5780-93ff-d599a26a169c",
+        "label": "ndc_folder",
+        "definition": "Denotes a ScienceBase Item that functions as an organizational folder within the National Digital Catalog."
       },
       {
-        "id": "5bf3f7f5e4b00ce5fb627d58",
-        "name": "ndc_organization",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/nggdpp_collection_types",
-        "uri": "https://www.sciencebase.gov/vocab/category/5bf3f7f5e4b00ce5fb627d58",
-        "label": "NDC Organization",
-        "description": "Item that represents a contributing organization. Used to set permissions in ScienceBase to allow management access by members of the organization.",
-        "parentId": "5bf3f7bce4b00ce5fb627d57",
-        "nodeType": "term"
+        "uuid": "2f2a6948-1cff-54a4-9629-1b06092dee2c",
+        "broader": "5e42d141-0195-5780-93ff-d599a26a169c",
+        "label": "ndc_organization",
+        "definition": "Item that represents a contributing organization. Used to set permissions in ScienceBase to allow management access by members of the organization."
       }
     ]
   },
   {
-    "id": "58fa2280e4b0db4d5416979a",
-    "name": "NGGDPPCollectionTheme",
-    "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP",
-    "uri": "https://www.sciencebase.gov/vocab/category/58fa2280e4b0db4d5416979a",
-    "label": "NGGDPP Collection Theme",
-    "parentId": "4f4e475ee4b07f02db47df09",
-    "nodeType": "vocabulary",
-    "terms": [
+    "uuid": "178a5b9a-0eb0-5962-b60d-d6acce288618",
+    "broader": "65f4cf61-d55e-525d-80de-0b2fe9cbd1cd",
+    "label": "NGGDPPCollectionTheme",
+    "definition": "",
+    "children": [
       {
-        "id": "58fa229ae4b0db4d5416979b",
-        "name": "Biological Collection",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/NGGDPPCollectionTheme",
-        "uri": "https://www.sciencebase.gov/vocab/category/58fa229ae4b0db4d5416979b",
-        "parentId": "58fa2280e4b0db4d5416979a",
-        "nodeType": "term"
+        "uuid": "6c4e7413-f552-5761-bd2c-e871f6479487",
+        "broader": "178a5b9a-0eb0-5962-b60d-d6acce288618",
+        "label": "Biological Collection"
       },
       {
-        "id": "58fa22c7e4b0db4d5416979c",
-        "name": "Geological Collection",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/NGGDPPCollectionTheme",
-        "uri": "https://www.sciencebase.gov/vocab/category/58fa22c7e4b0db4d5416979c",
-        "parentId": "58fa2280e4b0db4d5416979a",
-        "nodeType": "term"
+        "uuid": "b78c116a-121c-55ab-9f0e-6b232a06a119",
+        "broader": "178a5b9a-0eb0-5962-b60d-d6acce288618",
+        "label": "Geological Collection"
       },
       {
-        "id": "58fa22e1e4b0db4d5416979d",
-        "name": "Paleontological Collection",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/NGGDPPCollectionTheme",
-        "uri": "https://www.sciencebase.gov/vocab/category/58fa22e1e4b0db4d5416979d",
-        "parentId": "58fa2280e4b0db4d5416979a",
-        "nodeType": "term"
+        "uuid": "3abd06f1-a7af-5eca-af31-a40c0fb0214c",
+        "broader": "178a5b9a-0eb0-5962-b60d-d6acce288618",
+        "label": "Paleontological Collection"
       },
       {
-        "id": "58fa22f4e4b0db4d5416979e",
-        "name": "Water Collection",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/NGGDPPCollectionTheme",
-        "uri": "https://www.sciencebase.gov/vocab/category/58fa22f4e4b0db4d5416979e",
-        "parentId": "58fa2280e4b0db4d5416979a",
-        "nodeType": "term"
+        "uuid": "04bbefaf-a982-50c8-ab80-89b48d7a6a89",
+        "broader": "178a5b9a-0eb0-5962-b60d-d6acce288618",
+        "label": "Water Collection"
       }
     ]
   },
   {
-    "id": "61128456f0d1326bc2b4bec4",
-    "name": "ReSciColl Metadata Profile",
-    "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP",
-    "uri": "https://www.sciencebase.gov/vocab/category/61128456f0d1326bc2b4bec4",
-    "parentId": "4f4e475ee4b07f02db47df09",
-    "nodeType": "vocabulary",
-    "terms": [
+    "uuid": "078fe853-7191-5edc-b990-3a7a68f04cc1",
+    "broader": "65f4cf61-d55e-525d-80de-0b2fe9cbd1cd",
+    "label": "ReSciColl Metadata Profile",
+    "definition": "",
+    "children": [
       {
-        "id": "61128457f0d1326bc2b4bec5",
-        "name": "core",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/NDC%20Metadata%20Profile",
-        "uri": "https://www.sciencebase.gov/vocab/category/61128457f0d1326bc2b4bec5",
-        "label": "001",
-        "description": "Core metadata terms collections.",
-        "parentId": "61128456f0d1326bc2b4bec4",
-        "nodeType": "term"
+        "uuid": "0f710406-b304-56a4-9e02-1a00874d36fa",
+        "broader": "078fe853-7191-5edc-b990-3a7a68f04cc1",
+        "label": "core",
+        "definition": "Core metadata terms collections."
       },
       {
-        "id": "6112846bf0d1326bc2b4bec9",
-        "name": "geologic",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/NDC%20Metadata%20Profile",
-        "uri": "https://www.sciencebase.gov/vocab/category/6112846bf0d1326bc2b4bec9",
-        "label": "005",
-        "description": "Metadata terms for a geologic collection.",
-        "parentId": "61128456f0d1326bc2b4bec4",
-        "nodeType": "term"
+        "uuid": "e3ee2e30-2ae6-57b2-94fe-e129ca62de07",
+        "broader": "078fe853-7191-5edc-b990-3a7a68f04cc1",
+        "label": "geologic",
+        "definition": "Metadata terms for a geologic collection."
       },
       {
-        "id": "61128469f0d1326bc2b4bec8",
-        "name": "image",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/NDC%20Metadata%20Profile",
-        "uri": "https://www.sciencebase.gov/vocab/category/61128469f0d1326bc2b4bec8",
-        "label": "004",
-        "description": "Metadata terms for a image collection.",
-        "parentId": "61128456f0d1326bc2b4bec4",
-        "nodeType": "term"
+        "uuid": "2b461b6d-1716-52b5-b516-dd2be4d1734e",
+        "broader": "078fe853-7191-5edc-b990-3a7a68f04cc1",
+        "label": "image",
+        "definition": "Metadata terms for a image collection."
       },
       {
-        "id": "61128462f0d1326bc2b4bec7",
-        "name": "invertebrate",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/NDC%20Metadata%20Profile",
-        "uri": "https://www.sciencebase.gov/vocab/category/61128462f0d1326bc2b4bec7",
-        "label": "003",
-        "description": "Metadata terms for a invertebrate collection.",
-        "parentId": "61128456f0d1326bc2b4bec4",
-        "nodeType": "term"
+        "uuid": "fa4bb3ce-dcd0-536b-b898-05a100448544",
+        "broader": "078fe853-7191-5edc-b990-3a7a68f04cc1",
+        "label": "invertebrate",
+        "definition": "Metadata terms for a invertebrate collection."
       },
       {
-        "id": "6112845bf0d1326bc2b4bec6",
-        "name": "vertebrate",
-        "scheme": "https://www.sciencebase.gov/vocab/category/NGGDPP/NDC%20Metadata%20Profile",
-        "uri": "https://www.sciencebase.gov/vocab/category/6112845bf0d1326bc2b4bec6",
-        "label": "002",
-        "description": "Metadata terms for a vertebrate collection.",
-        "parentId": "61128456f0d1326bc2b4bec4",
-        "nodeType": "term"
+        "uuid": "fd9e0192-4bc1-5c63-af51-9214aa7e337a",
+        "broader": "078fe853-7191-5edc-b990-3a7a68f04cc1",
+        "label": "vertebrate",
+        "definition": "Metadata terms for a vertebrate collection."
       }
     ]
   }
