@@ -10,7 +10,6 @@ const UUID_V5_NAMESPACE = uuid.v5(baseUrl, uuid.v5.URL);
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
 const getNode = async (parentId, nodeType) => {
-
   let params = {
     parentId,
     nodeType,
@@ -36,18 +35,17 @@ const getNode = async (parentId, nodeType) => {
 
     params.offset += 10;
 
+    console.log('fetching next page');
+    const nextResponse = await axios
+      .get(`${baseUrl}/get`, { params })
+      .then(response => response.data);
 
-    console.log('fetching next page')
-    const nextResponse = await axios.get(`${baseUrl}/get`, { params }).then(response => response.data)
-
-    list = list.concat(nextResponse.list)
+    list = list.concat(nextResponse.list);
     console.log('total', total);
     console.log('list.length', list.length);
   }
 
-  return { list }
-
-
+  return { list };
 };
 
 const populateVocabulary = async (list, vocabulary, parentUuid) => {
