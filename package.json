@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "prettier-standard": "^16.4.1"
   }
 }
