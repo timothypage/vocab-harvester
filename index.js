@@ -9,8 +9,9 @@ const UUID_V5_NAMESPACE = uuid.v5(baseUrl, uuid.v5.URL);
 
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
-const getNode = (parentId, nodeType) => {
-  const params = {
+const getNode = async (parentId, nodeType) => {
+
+  let params = {
     parentId,
     nodeType,
     max: 10,
@@ -18,11 +19,35 @@ const getNode = (parentId, nodeType) => {
     format: 'json'
   };
 
-  // TODO handle pagination?
-
-  return axios
+  // TODO handle pagination
+  const response = await axios
     .get(`${baseUrl}/get`, { params })
     .then(response => response.data);
+
+  const fetched = response.list.length;
+  const total = response.total;
+  let list = response.list;
+
+  console.log('total', total);
+  console.log('list.length', list.length);
+
+  while (list.length < total) {
+    await sleep(1000);
+
+    params.offset += 10;
+
+
+    console.log('fetching next page')
+    const nextResponse = await axios.get(`${baseUrl}/get`, { params }).then(response => response.data)
+
+    list = list.concat(nextResponse.list)
+    console.log('total', total);
+    console.log('list.length', list.length);
+  }
+
+  return { list }
+
+
 };
 
 const populateVocabulary = async (list, vocabulary, parentUuid) => {
@@ -39,7 +64,6 @@ const populateVocabulary = async (list, vocabulary, parentUuid) => {
     if (item.nodeType === 'vocabulary') {
       let terms = [];
 
-      // TODO only terms seem to have descriptions, is that true?
       vocabulary.push({
         uuid: itemUuid,
         broader: parentUuid,
@@ -65,7 +89,6 @@ const populateVocabulary = async (list, vocabulary, parentUuid) => {
 
       let children = [];
 
-      // TODO only terms seem to have descriptions, is that true?
       vocabulary.push({
         uuid: itemUuid,
         broader: parentUuid,
