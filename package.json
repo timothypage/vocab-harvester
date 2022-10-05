@@ -4,12 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier-standard *.js --format",
+    "check": "prettier-standard *.js --check"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.27.2"
+    "axios": "^0.27.2",
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "prettier-standard": "^16.4.1"

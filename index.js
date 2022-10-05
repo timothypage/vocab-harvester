@@ -107,7 +107,7 @@ async function main () {
   const rootUuid = uuid.v5(baseId, UUID_V5_NAMESPACE)
   await populateVocabulary(rootNode.list, vocabulary, rootUuid)
 
-  fs.writeFileSync('./vocabulary.json', JSON.stringify(vocabulary, null, 2))
+  fs.writeFileSync('./vocabulary.json', JSON.stringify(vocabulary, null, 2) + '\n')
 }
 
 main()
