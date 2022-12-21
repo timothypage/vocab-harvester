@@ -10,8 +10,8 @@
                 "timz"
             ],
             "title": "Timz",
-            "description": "Every supported component",
-            "version": "VERSION",
+            "description": "Every supported component for Tim",
+            "version": "0.0.1",
             "components":
             {
                 "record":
@@ -114,7 +114,16 @@
                         "tip": "Information about entities(tables) and attributes(columns or fields)."
                     }
                 ]
-            }
+            },
+            "contacts": [
+                {
+                    "contactId": "da7e1733-76af-4ef1-a147-2cd6f1d6e695",
+                    "name": "Mighty Mouse",
+                    "positionName": "Chief Bite-sized Hero",
+                    "phone": ["1-202-555-5555"]
+
+                }
+            ]
         }
     ]
 }
