@@ -1,0 +1,189 @@
+{
+  "contact": [{
+    "contactId": "766c36a6-82fc-49ca-9c22-3c791cc43349",
+    "isOrganization": false,
+    "name": "Timothy Zwolak",
+    "memberOfOrganization": ["59400cd9-e010-442f-8bc2-be4b57c38d02"],
+    "phone": [{
+      "service": ["voice"],
+      "phoneName": "Lab",
+      "phoneNumber": "(269) 671-2339"
+    }, {
+      "service": ["facsimile"],
+      "phoneName": "Fax",
+      "phoneNumber": "(269) 671-2333 "
+    }],
+    "electronicMailAddress": ["zwolakti@msu.edu"],
+    "externalIdentifier": [{
+      "identifier": "0000-0002-4472-5965",
+      "namespace": "ORCID"
+    }],
+    "positionName": "Field Tech",
+    "contactType": "research"
+  }, {
+    "contactId": "59400cd9-e010-442f-8bc2-be4b57c38d02",
+    "isOrganization": true,
+    "name": "Kellogg Biological Station",
+    "address": [{
+      "addressType": ["mailing", "physical"],
+      "deliveryPoint": ["3700 East Gull Lake Drive"],
+      "city": "Hickory Corners",
+      "administrativeArea": "MI",
+      "postalCode": "49060",
+      "country": "USA"
+    }],
+    "contactType": "research"
+  }, {
+    "contactId": "c1420754-b515-4676-861f-7fb2446e71c1",
+    "isOrganization": false,
+    "name": "Stacey VanderWulp",
+    "memberOfOrganization": ["59400cd9-e010-442f-8bc2-be4b57c38d02"],
+    "phone": [{
+      "service": ["voice"],
+      "phoneName": "Phone",
+      "phoneNumber": "(269) 671-2339"
+    }, {
+      "service": ["facsimile"],
+      "phoneName": "Fax",
+      "phoneNumber": "(269) 671-2333"
+    }],
+    "electronicMailAddress": [" vanderws@msu.edu"],
+    "positionName": "Project Manager",
+    "contactType": "research"
+  }],
+  "profile": [{
+    "identifier": "timz",
+    "namespace": "org.adiwg.profile",
+    "alternateId": ["timz"],
+    "title": "Timz",
+    "description": "Every supported component for Tim",
+    "version": "0.0.1",
+    "components": {
+      "record": {},
+      "contact": {},
+      "dictionary": {}},
+    "nav": {
+      "record": [{
+        "title": "Main",
+        "target": "record.show.edit.main",
+        "tip": "Basic information about the resource."
+      }, {
+        "title": "Metadata",
+        "target": "record.show.edit.metadata",
+        "tip": "Information about the metadata for the resource."
+      }, {
+        "title": "Keywords",
+        "target": "record.show.edit.keywords",
+        "tip": "Terms used to describe the resource."
+      }, {
+        "title": "Extent",
+        "target": "record.show.edit.extent",
+        "tip": "Information describing the bounds of the resource."
+      }, {
+        "title": "Spatial",
+        "target": "record.show.edit.spatial",
+        "tip": "Information concerning the spatial attributes of the resource."
+      }, {
+        "title": "Lineage",
+        "target": "record.show.edit.lineage",
+        "tip": "Information on the history of the resource."
+      }, {
+        "title": "Taxonomy",
+        "target": "record.show.edit.taxonomy",
+        "tip": "Information on the taxa associated with the resource."
+      }, {
+        "title": "Distribution",
+        "target": "record.show.edit.distribution",
+        "tip": "Information about obtaining the resource."
+      }, {
+        "title": "Constraints",
+        "target": "record.show.edit.constraint",
+        "tip": "Information about constraints applied to the resource."
+      }, {
+        "title": "Associated",
+        "target": "record.show.edit.associated",
+        "tip": "Other resources with a defined relationship to the resource."
+      }, {
+        "title": "Documents",
+        "target": "record.show.edit.documents",
+        "tip": "Other documents related to, but not defining, the resource."
+      }, {
+        "title": "Funding",
+        "target": "record.show.edit.funding",
+        "tip": "Information about funding allocated to development of the resource."
+      }, {
+        "title": "Dictionaries",
+        "target": "record.show.edit.dictionary",
+        "tip": "Data dictionaries associated with the resource."
+      }],
+      "dictionary": [{
+        "title": "Main",
+        "target": "dictionary.show.edit.index",
+        "tip": "Basic information about the dictionary."
+      }, {
+        "title": "Citation",
+        "target": "dictionary.show.edit.citation",
+        "tip": "The citation for the dictionary."
+      }, {
+        "title": "Domains",
+        "target": "dictionary.show.edit.domain",
+        "tip": "Information about defined value lists."
+      }, {
+        "title": "Entities",
+        "target": "dictionary.show.edit.entity",
+        "tip": "Information about entities(tables) and attributes(columns or fields)."
+      }]
+    }
+  }],
+  "thesaurus": [{
+    "label": "NGGDPP Vocabulary",
+    "citation": {
+      "date": [{
+        "date": "2022-09",
+        "dateType": "revision"
+      }],
+      "title": "NGGDPP",
+      "edition": "ISO 19115-2:2020",
+      "onlineResource": [{
+        "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df09"
+      }],
+      "identifier": [{
+        "identifier": "NGGDPP Vocabulary"
+      }]
+    },
+    "keywordType": "NGGDPPkeywords",
+    "keywords": {
+      "uuid": "5c050c63-147f-5196-92d8-705d776e4153",
+      "broader": "65f4cf61-d55e-525d-80de-0b2fe9cbd1cd",
+      "label": "collection",
+      "definition": "",
+      "children": [{
+        "uuid": "4b12677b-d32a-5c02-a290-c1a30806e10f",
+        "broader": "5c050c63-147f-5196-92d8-705d776e4153",
+        "label": "category",
+        "definition": "",
+        "children": [{
+          "uuid": "f998722c-29ce-5126-9601-683e0c502e37",
+          "broader": "4b12677b-d32a-5c02-a290-c1a30806e10f",
+          "label": "2-D and 3-D seismic reflection"
+        }, {
+          "uuid": "9ab3e0d1-b627-5378-b7bd-e91cba68a1c7",
+          "broader": "4b12677b-d32a-5c02-a290-c1a30806e10f",
+          "label": "Aerial photographs"
+        }, {
+          "uuid": "63f77e50-1ae6-526e-a2b8-df2430aebd78",
+          "broader": "4b12677b-d32a-5c02-a290-c1a30806e10f",
+          "label": "Aeromagnetic database"
+        }, {
+          "uuid": "e33b893a-cd32-5559-9062-89ef2e9b5a89",
+          "broader": "4b12677b-d32a-5c02-a290-c1a30806e10f",
+          "label": "Auger samples"
+        }, {
+          "uuid": "2f432b88-122c-5b9f-adec-a0696372f575",
+          "broader": "4b12677b-d32a-5c02-a290-c1a30806e10f",
+          "label": "Bibliographic Database"
+        }]
+      }]
+    }
+  }]
+}

@@ -115,13 +115,82 @@
                     }
                 ]
             },
-            "contacts": [
+            "contacts":
+            [
                 {
                     "contactId": "da7e1733-76af-4ef1-a147-2cd6f1d6e695",
                     "name": "Mighty Mouse",
-                    "positionName": "Chief Bite-sized Hero",
-                    "phone": ["1-202-555-5555"]
-
+                    "icon": "user",
+                    "isOrganization": false,
+                    "electronicMailAddress":
+                    [
+                        "coolkid@gmail.com"
+                    ],
+                    "externalIdentifier":
+                    [
+                        {
+                            "identifier": "0000-0002-4472-5965",
+                            "namespace": "ORCID"
+                        }
+                    ],
+                    "phone":
+                    [
+                        {
+                            "phoneName": "House",
+                            "phoneNumber": "1-202-555-5555",
+                            "service":
+                            [
+                                "voice",
+                                "sms"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thesauruses":
+            [
+                {
+                    "uuid": "5c050c63-147f-5196-92d8-705d776e4153",
+                    "broader": "65f4cf61-d55e-525d-80de-0b2fe9cbd1cd",
+                    "label": "collection",
+                    "definition": "",
+                    "children":
+                    [
+                        {
+                            "uuid": "4b12677b-d32a-5c02-a290-c1a30806e10f",
+                            "broader": "5c050c63-147f-5196-92d8-705d776e4153",
+                            "label": "category",
+                            "definition": "",
+                            "children":
+                            [
+                                {
+                                    "uuid": "f998722c-29ce-5126-9601-683e0c502e37",
+                                    "broader": "4b12677b-d32a-5c02-a290-c1a30806e10f",
+                                    "label": "2-D and 3-D seismic reflection"
+                                },
+                                {
+                                    "uuid": "9ab3e0d1-b627-5378-b7bd-e91cba68a1c7",
+                                    "broader": "4b12677b-d32a-5c02-a290-c1a30806e10f",
+                                    "label": "Aerial photographs"
+                                },
+                                {
+                                    "uuid": "63f77e50-1ae6-526e-a2b8-df2430aebd78",
+                                    "broader": "4b12677b-d32a-5c02-a290-c1a30806e10f",
+                                    "label": "Aeromagnetic database"
+                                },
+                                {
+                                    "uuid": "e33b893a-cd32-5559-9062-89ef2e9b5a89",
+                                    "broader": "4b12677b-d32a-5c02-a290-c1a30806e10f",
+                                    "label": "Auger samples"
+                                },
+                                {
+                                    "uuid": "2f432b88-122c-5b9f-adec-a0696372f575",
+                                    "broader": "4b12677b-d32a-5c02-a290-c1a30806e10f",
+                                    "label": "Bibliographic Database"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }
