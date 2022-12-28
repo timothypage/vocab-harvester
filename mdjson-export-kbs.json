@@ -152,7 +152,7 @@
       }]
     },
     "keywordType": "NGGDPPkeywords",
-    "keywords": {
+    "keywords": [{
       "uuid": "5c050c63-147f-5196-92d8-705d776e4153",
       "broader": "65f4cf61-d55e-525d-80de-0b2fe9cbd1cd",
       "label": "collection",
@@ -184,6 +184,6 @@
           "label": "Bibliographic Database"
         }]
       }]
-    }
+    }]
   }]
 }
